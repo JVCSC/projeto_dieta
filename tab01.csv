@@ -1,0 +1,1972 @@
+﻿id;nome_alimento;preparo;kcal;proteina;lipidios;carboidratos;fibra
+1;Arroz (polido. parboilizado. agulha. agulhinha. etc.);Não se aplica;135.62;2.5;1.2;27.78;1.55
+2;Arroz integral;Não se aplica;130.95;2.56;1.97;25.56;2.72
+3;Milho (em grão);Cru(a);160.14;3.32;7.18;25.11;4.25
+4;Milho (em grão);Cozido(a);160.14;3.32;7.18;25.11;4.25
+5;Milho (em grão);Grelhado(a)/brasa/churrasco;160.14;3.32;7.18;25.11;4.25
+6;Milho (em grão);Assado(a);160.14;3.32;7.18;25.11;4.25
+7;Milho (em grão);Refogado(a);160.14;3.32;7.18;25.11;4.25
+8;Milho (em grão);Ensopado;160.14;3.32;7.18;25.11;4.25
+9;Milho (em grão);Não se aplica;160.14;3.32;7.18;25.11;4.25
+10;Canjiquinha de milho em grão;Cru(a);79.68;1.24;2.2;13.5;0.67
+11;Canjiquinha de milho em grão;Cozido(a);62.95;1.24;0.31;13.5;0.67
+12;Canjiquinha de milho em grão;Ensopado;79.68;1.24;2.2;13.5;0.67
+13;Canjiquinha de milho em grão;Mingau;62.95;1.24;0.31;13.5;0.67
+14;Canjiquinha de milho em grão;Sopa;31.44;0.95;0.12;7.01;0.71
+15;Canjiquinha de milho em grão;Não se aplica;62.95;1.24;0.31;13.5;0.67
+16;Xerém de milho;Não se aplica;62.95;1.24;0.31;13.5;0.67
+17;Amendoim (em grão) in natura;Não se aplica;567;25.8;49.24;16.13;8.5
+18;Ervilha em grão;Não se aplica;109.09;5.36;3.06;15.63;5.5
+19;Fava (em grão);Não se aplica;85.62;4.8;3.17;10.1;3.6
+20;Mangalô amargo em grão;Não se aplica;85.62;4.8;3.17;10.1;3.6
+21;Feijãodecorda;Não se aplica;121.33;3.17;3.13;20.32;5
+22;Feijãoverde;Não se aplica;121.33;3.17;3.13;20.32;5
+23;Semente de linhaça;Não se aplica;534;18.29;42.16;28.88;27.3
+24;Andu;Não se aplica;97.41;5.84;1.79;15.05;3.78
+25;Grão de bico;Não se aplica;188.48;8.86;5.36;27.42;7.6
+26;Lentilha;Não se aplica;136.28;9.02;2.67;20.13;5.86
+27;Soja em grão;Não se aplica;196.34;16.64;11.61;9.93;6
+28;Feijão (preto. mulatinho. roxo. rosinha. etc.);Não se aplica;97.41;5.84;1.79;15.05;3.78
+29;Quirera não especificada;Não se aplica;62.95;1.24;0.31;13.5;0.67
+30;Feijãoverde orgânico;Não se aplica;121.33;3.17;3.13;20.32;5
+31;Feijão orgânico;Não se aplica;97.41;5.84;1.79;15.05;3.78
+32;Pipoca  light;Não se aplica;445.94;10.77;17.78;64.85;12.07
+33;Arroz  orgânico;Não se aplica;135.62;2.5;1.2;27.78;1.55
+34;Arroz integral orgânico;Não se aplica;130.95;2.56;1.97;25.56;2.72
+35;Feijãodesoja orgânico;Não se aplica;196.34;16.64;11.61;9.93;6
+36;Quinoa;Não se aplica;135.47;4.37;4.33;19.83;2.16
+37;Batatainglesa;Cru(a);86;1.71;0.1;20.01;2.05
+38;Batatainglesa;Cozido(a);86;1.71;0.1;20.01;2.05
+39;Batatainglesa;Grelhado(a)/brasa/churrasco;86;1.71;0.1;20.01;2.05
+40;Batatainglesa;Assado(a);86;1.71;0.1;20.01;2.05
+41;Batatainglesa;Frito(a);263.5;2.87;13.64;33.6;3.44
+42;Batatainglesa;Refogado(a);111.74;1.71;3.01;20.01;2.05
+43;Batatainglesa;Molho vermelho;73.6;1.63;0.12;17.08;1.94
+44;Batatainglesa;Molho branco;101.39;2.15;2.57;17.86;1.68
+45;Batatainglesa;Ao alho e óleo;263.5;2.87;13.64;33.6;3.44
+46;Batatainglesa;Com manteiga/óleo;111.74;1.71;3.01;20.01;2.05
+47;Batatainglesa;Ensopado;111.74;1.71;3.01;20.01;2.05
+48;Batatainglesa;Sopa;31.44;0.95;0.12;7.01;0.71
+49;Batatainglesa;Não se aplica;86;1.71;0.1;20.01;2.05
+50;Mandioquinha salsa (batatabaroa);Cozido(a);76;1.37;0.14;17.72;2.5
+51;Mandioquinha salsa (batatabaroa);Refogado(a);91.74;1.37;1.92;17.72;2.5
+52;Mandioquinha salsa (batatabaroa);Ensopado;91.74;1.37;1.92;17.72;2.5
+53;Mandioquinha salsa (batatabaroa);Não se aplica;76;1.37;0.14;17.72;2.5
+54;Cenoura amarela (batatabaroa);Não se aplica;76;1.37;0.14;17.72;2.5
+55;Batatadoce;Cru(a);76;1.37;0.14;17.72;2.5
+56;Batatadoce;Cozido(a);76;1.37;0.14;17.72;2.5
+57;Batatadoce;Assado(a);90;2.01;0.15;20.71;3.3
+58;Batatadoce;Frito(a);351.28;4.4;12.59;56.88;8.03
+59;Batatadoce;Refogado(a);91.74;1.37;1.92;17.72;2.5
+60;Batatadoce;Ensopado;91.74;1.37;1.92;17.72;2.5
+61;Batatadoce;Não se aplica;76;1.37;0.14;17.72;2.5
+62;Inhame;Cru(a);100;1.71;0.12;23.4;1.8
+63;Inhame;Cozido(a);100;1.71;0.12;23.4;1.8
+64;Inhame;Assado(a);90;2.01;0.15;20.71;3.3
+65;Inhame;Frito(a);115.74;1.71;1.9;23.4;1.8
+66;Inhame;Refogado(a);115.74;1.71;1.9;23.4;1.8
+67;Inhame;Ensopado;115.74;1.71;1.9;23.4;1.8
+68;Inhame;Sopa;31.44;0.95;0.12;7.01;0.71
+69;Quicaré;Não se aplica;100;1.71;0.12;23.4;1.8
+70;Mandioca;Cru(a);125;0.6;0.3;30.1;1.6
+71;Mandioca;Cozido(a);125;0.6;0.3;30.1;1.6
+72;Mandioca;Assado(a);125;0.6;0.3;30.1;1.6
+73;Mandioca;Frito(a);162.74;0.57;5.26;28.6;1.52
+74;Mandioca;Refogado(a);162.74;0.57;5.26;28.6;1.52
+75;Mandioca;Molho vermelho;104.8;0.74;0.28;25.16;1.58
+76;Mandioca;Com manteiga/óleo;154.6;0.61;4.34;28.6;1.52
+77;Mandioca;Ensopado;162.74;0.57;5.26;28.6;1.52
+78;Mandioca;Sopa;31.44;0.95;0.12;7.01;0.71
+79;Mandioca;Não se aplica;125;0.6;0.3;30.1;1.6
+80;Aipim;Cozido(a);125;0.6;0.3;30.1;1.6
+81;Aipim;Assado(a);125;0.6;0.3;30.1;1.6
+82;Aipim;Frito(a);162.74;0.57;5.26;28.6;1.52
+83;Aipim;Empanado(a)/à milanesa;162.74;0.57;5.26;28.6;1.52
+84;Aipim;Refogado(a);162.74;0.57;5.26;28.6;1.52
+85;Aipim;Molho vermelho;104.8;0.74;0.28;25.16;1.58
+86;Aipim;Com manteiga/óleo;154.6;0.61;4.34;28.6;1.52
+87;Aipim;Ensopado;162.74;0.57;5.26;28.6;1.52
+88;Aipim;Sopa;31.44;0.95;0.12;7.01;0.71
+89;Aipim;Não se aplica;125;0.6;0.3;30.1;1.6
+90;Macaxeira;Cru(a);125;0.6;0.3;30.1;1.6
+91;Macaxeira;Cozido(a);125;0.6;0.3;30.1;1.6
+92;Macaxeira;Assado(a);125;0.6;0.3;30.1;1.6
+93;Macaxeira;Frito(a);162.74;0.57;5.26;28.6;1.52
+94;Cará;Cozido(a);100;1.71;0.12;23.4;1.8
+95;Cará;Frito(a);115.74;1.71;1.9;23.4;1.8
+96;Cará;Refogado(a);115.74;1.71;1.9;23.4;1.8
+97;Cará;Ensopado;115.74;1.71;1.9;23.4;1.8
+98;Cará;Mingau;100;1.71;0.12;23.4;1.8
+99;Cará;Sopa;31.44;0.95;0.12;7.01;0.71
+100;Inhame caraquento (cará);Cozido(a);100;1.71;0.12;23.4;1.8
+101;Batata (não especificada);Cru(a);86;1.71;0.1;20.01;2.05
+102;Batata (não especificada);Cozido(a);86;1.71;0.1;20.01;2.05
+103;Batata (não especificada);Grelhado(a)/brasa/churrasco;86;1.71;0.1;20.01;2.05
+104;Batata (não especificada);Assado(a);86;1.71;0.1;20.01;2.05
+105;Batata (não especificada);Frito(a);263.5;2.87;13.64;33.6;3.44
+106;Batata (não especificada);Refogado(a);111.74;1.71;3.01;20.01;2.05
+107;Batata (não especificada);Molho vermelho;73.6;1.63;0.12;17.08;1.94
+108;Batata (não especificada);Molho branco;101.39;2.15;2.57;17.86;1.68
+109;Batata (não especificada);Ao vinagrete;111.74;1.71;3.01;20.01;2.05
+110;Batata (não especificada);Ensopado;111.74;1.71;3.01;20.01;2.05
+111;Batata (não especificada);Sopa;31.44;0.95;0.12;7.01;0.71
+112;Batata (não especificada);Não se aplica;86;1.71;0.1;20.01;2.05
+113;Mandioquinha;Cozido(a);76;1.37;0.14;17.72;2.5
+114;Mandioquinha;Frito(a);116.4;1.3;5.13;16.83;2.38
+115;Mandioquinha;Refogado(a);91.74;1.37;1.92;17.72;2.5
+116;Mandioquinha;Ensopado;91.74;1.37;1.92;17.72;2.5
+117;Rabanete;Cru(a);16;0.68;0.1;3.4;1.6
+118;Rabanete;Cozido(a);18;0.6;0.1;4.1;1.6
+119;Rabanete;Ao vinagrete;18;0.6;0.1;4.1;1.6
+120;Beterraba;Cru(a);43;1.61;0.17;9.56;2.8
+121;Beterraba;Cozido(a);44;1.68;0.18;9.96;2
+122;Beterraba;Refogado(a);67.62;1.68;2.85;9.96;2
+123;Beterraba;Ao vinagrete;44;1.68;0.18;9.96;2
+124;Beterraba;Sopa;31.44;0.95;0.12;7.01;0.71
+125;Beterraba;Não se aplica;43;1.61;0.17;9.56;2.8
+126;Cenoura;Cru(a);41;0.93;0.24;9.58;2.8
+127;Cenoura;Cozido(a);35;0.76;0.18;8.22;3
+128;Cenoura;Frito(a);60.47;0.74;3.17;7.97;2.91
+129;Cenoura;Refogado(a);60.47;0.74;3.17;7.97;2.91
+130;Cenoura;Molho vermelho;32.8;0.87;0.18;7.65;2.7
+131;Cenoura;Ao alho e óleo;60.47;0.74;3.17;7.97;2.91
+132;Cenoura;Com manteiga/óleo;56.74;0.79;2.64;8.22;3
+133;Cenoura;Ao vinagrete;35;0.76;0.18;8.22;3
+134;Cenoura;Ensopado;60.47;0.74;3.17;7.97;2.91
+135;Cenoura;Sopa;31.44;0.95;0.12;7.01;0.71
+136;Cenoura;Não se aplica;41;0.93;0.24;9.58;2.8
+137;Nabo;Cozido(a);22;0.71;0.08;5.06;2
+138;Nabo;Refogado(a);47.74;0.71;2.99;5.06;2
+139;Açafrão;Cru(a);310;11.43;5.85;65.37;3.9
+140;Batatainglesa orgânica;Frito(a);263.5;2.87;13.64;33.6;3.44
+141;Creme de arroz;Não se aplica;148.32;3.8;3.3;26.07;0.3
+142;Arrozina;Não se aplica;148.32;3.8;3.3;26.07;0.3
+143;Mucilon;Não se aplica;78.24;2.42;3.06;10.46;0.17
+144;Mingau de arroz;Não se aplica;148.32;3.8;3.3;26.07;0.3
+145;Croquinhos de arroz;Não se aplica;387;12.94;4.54;77.9;14.5
+146;Farinha de aveia;Não se aplica;384;16;6.3;67;9.8
+147;Aveia em flocos;Não se aplica;384;16;6.3;67;9.8
+148;Fubá de milho;Não se aplica;60.58;1.44;0.2;13;0.26
+149;Farinha de milho;Não se aplica;351;7.2;1.5;79.1;5.5
+150;Puba de milho;Não se aplica;311;4.8;12.4;45.1;0.7
+151;Puba de fubá;Não se aplica;311;4.8;12.4;45.1;0.7
+152;Milho moído;Cozido(a);160.14;3.32;7.18;25.11;4.25
+153;Mingau de milho;Não se aplica;78.24;2.42;3.06;10.46;0.17
+154;Amido de milho;Não se aplica;78.24;2.42;3.06;10.46;0.17
+155;Amido de arroz;Não se aplica;148.32;3.8;3.3;26.07;0.3
+156;Cremogema;Não se aplica;78.24;2.42;3.06;10.46;0.17
+157;Vitamilho;Não se aplica;128.3;4.35;0.22;26.42;1.71
+158;Creme de milho;Não se aplica;78.24;2.42;3.06;10.46;0.17
+159;Sucrilhos de milho;Não se aplica;377;4.7;0.7;88.8;2.1
+160;Cereal matinal de milho em flocos;Não se aplica;377;4.7;0.7;88.8;2.1
+161;Germe de trigo;Não se aplica;360;23.15;9.72;51.8;13.2
+162;Fibra de trigo;Não se aplica;216;15.55;4.25;64.51;42.8
+163;Fibra de cereal trigo;Não se aplica;216;15.55;4.25;64.51;42.8
+164;Farinha de mandioca;Não se aplica;361;1.6;0.3;87.9;6.4
+165;Farinha de copioba;Não se aplica;361;1.6;0.3;87.9;6.4
+166;Farinha d'água;Não se aplica;361;1.6;0.3;87.9;6.4
+167;Cruera;Não se aplica;361;1.6;0.3;87.9;6.4
+168;Goma de mandioca;Não se aplica;336;2;0;82;0
+169;Sagu de mandioca;Não se aplica;116.99;4.33;4.1;15.51;0.03
+170;Farinha de tapioca;Não se aplica;331;0.5;0.3;81.1;0.6
+171;Farinha beiju;Não se aplica;331;0.5;0.3;81.1;0.6
+172;Sagu de tapioca;Não se aplica;116.99;4.33;4.1;15.51;0.03
+173;Tapioca de goma;Não se aplica;336;2;0;82;0
+174;Farinha láctea;Não se aplica;396.67;12.67;6.33;73.33;2.67
+175;Neston;Não se aplica;345.8;12.92;0;70.8;6.25
+176;Flocos de cereais;Não se aplica;365;7.2;1;83.8;4.1
+177;Vitaflocos;Não se aplica;78.24;2.42;3.06;10.46;0.17
+178;Mini pizza semipronta;Cru(a);252.49;10.17;8.22;33.73;1.75
+179;Mini pizza semipronta;Cozido(a);252.49;10.17;8.22;33.73;1.75
+180;Mini pizza semipronta;Assado(a);252.49;10.17;8.22;33.73;1.75
+181;Mini pizza semipronta;Frito(a);252.49;10.17;8.22;33.73;1.75
+182;Mini pizza semipronta;Não se aplica;252.49;10.17;8.22;33.73;1.75
+183;Fibra de soja;Não se aplica;70;12;2;74;73
+184;Minipastel;Não se aplica;319.81;10.38;15.68;33.51;1.45
+185;Macarrão ;Cru(a);158;5.8;0.93;30.86;1.8
+186;Macarrão ;Cozido(a);158;5.8;0.93;30.86;1.8
+187;Macarrão ;Grelhado(a)/brasa/churrasco;158;5.8;0.93;30.86;1.8
+188;Macarrão ;Assado(a);158;5.8;0.93;30.86;1.8
+189;Macarrão ;Frito(a);186.68;5.8;4.17;30.86;1.8
+190;Macarrão ;Empanado(a)/à milanesa;186.68;5.8;4.17;30.86;1.8
+191;Macarrão ;Refogado(a);186.68;5.8;4.17;30.86;1.8
+192;Macarrão ;Molho vermelho;103.73;3.5;1.92;18.27;1.46
+193;Macarrão ;Molho branco;158.99;5.42;3.23;26.54;1.48
+194;Macarrão ;Ao alho e óleo;186.68;5.8;4.17;30.86;1.8
+195;Macarrão ;Com manteiga/óleo;182.22;5.83;3.67;30.86;1.8
+196;Macarrão ;Ao vinagrete;158;5.8;0.93;30.86;1.8
+197;Macarrão ;Ensopado;186.68;5.8;4.17;30.86;1.8
+198;Macarrão ;Sopa;158;5.8;0.93;30.86;1.8
+199;Macarrão ;Não se aplica;158;5.8;0.93;30.86;1.8
+200;Purê de batata;Não se aplica;115.16;1.81;4.36;17.76;1.78
+201;Bife vegetal;Não se aplica;142.37;18.51;5.32;5.8;0.44
+202;Carne vegetal;Frito(a);142.37;18.51;5.32;5.8;0.44
+203;Pasta de soja;Não se aplica;62;6.9;2.7;2.4;0.1
+204;Carne de soja;Não se aplica;142.37;18.51;5.32;5.8;0.44
+205;Amendoim moído;Não se aplica;567;25.8;49.24;16.13;8.5
+206;Granola ;Não se aplica;388;9.5;6.3;73.8;8.5
+207;Musli;Não se aplica;388;9.5;6.3;73.8;8.5
+208;Mix de cereais;Não se aplica;388;9.5;6.3;73.8;8.5
+209;Miojo;Não se aplica;189.86;5.65;7.18;25.54;1.16
+210;Macarrão instantâneo;Não se aplica;189.86;5.65;7.18;25.54;1.16
+211;Sustagem;Não se aplica;369.15;24.05;0.49;68.02;0
+212;Proteína de soja;Não se aplica;142.37;18.51;5.32;5.8;0.44
+213;Proteína vegetal;Não se aplica;142.37;18.51;5.32;5.8;0.44
+214;Complemento alimentar de qualquer sabor;Não se aplica;369.15;24.05;0.49;68.02;0
+215;Sucrilhos de milho light;Não se aplica;365;7.2;1;83.8;4.1
+216;Mini pizza semipronta light;Assado(a);255.57;14.6;8.45;29.82;1.74
+217;Macarrão instantâneo light;Sopa;189.86;5.65;7.18;25.54;1.16
+218;Macarrão instantâneo light;Não se aplica;189.86;5.65;7.18;25.54;1.16
+219;Proteína de soja orgânica;Não se aplica;142.37;18.51;5.32;5.8;0.44
+220;Macarrão com carne;Não se aplica;120.59;6.22;2.79;17.42;1.25
+221;Macarrão com peixe;Não se aplica;163.17;14.98;4.13;15.43;0.9
+222;Cocodabaía (seco ou verde);Não se aplica;354;3.33;33.49;15.23;9
+223;Castanha portuguesa;Não se aplica;131;2;1.38;27.76;4.14
+224;Pinhão;Não se aplica;174.37;2.98;0.75;43.92;15.6
+225;Amêndoa;Não se aplica;578;21.26;50.64;19.74;11.8
+226;Avelã;Não se aplica;628;14.95;60.75;16.7;9.7
+227;Castanhadopará;Não se aplica;656;14.32;66.43;12.27;7.5
+228;Castanha de caju;Não se aplica;574;15.31;46.35;32.69;3
+229;Butiá;Não se aplica;105;1.9;2;22.8;7.4
+230;Tucumã;Não se aplica;474;5.5;47.2;6.8;19.2
+231;Coco de mucajá;Não se aplica;404.28;2.08;40.66;13.95;13.44
+232;Noz (nogueira);Não se aplica;654;15.23;65.21;13.71;6.7
+233;Açaí ;Não se aplica;262;3.6;2;57.4;5.92
+234;Juçara;Não se aplica;262;3.6;2;57.4;5.92
+235;Uaçaí;Não se aplica;262;3.6;2;57.4;5.92
+236;Jussara;Não se aplica;262;3.6;2;57.4;5.92
+237;Pupunha;Não se aplica;28;2.52;0.62;4.62;2.4
+238;Bacaba;Não se aplica;212;3.12;19.8;6.6;0
+239;Bacabuçu;Não se aplica;212;3.12;19.8;6.6;0
+240;Castanhadaíndia;Não se aplica;656;14.32;66.43;12.27;7.5
+241;Pistache;Não se aplica;557;20.61;44.44;27.97;10.3
+242;Buriti ;Não se aplica;145;1.8;8.1;10.2;9.6
+243;Coco ;Não se aplica;354;3.33;33.49;15.23;9
+244;Patauá ;Não se aplica;105;1.9;2;22.8;7.4
+245;Alface;Não se aplica;15;1.36;0.15;2.79;1.3
+246;Bertalha;Refogado(a);45.3;2.97;2.78;3.75;2.4
+247;Chicória;Cru(a);17;1.25;0.2;3.35;3.1
+248;Chicória;Cozido(a);58.88;1.9;3.89;5.63;2
+249;Chicória;Refogado(a);58.88;1.9;3.89;5.63;2
+250;Chicória;Ao vinagrete;58.88;1.9;3.89;5.63;2
+251;Escarola;Não se aplica;52.88;1.61;3.75;4.31;3.99
+252;Couve;Cru(a);30;2.45;0.42;5.69;3.6
+253;Couve;Cozido(a);26;2.11;0.36;4.91;2.8
+254;Couve;Frito(a);47.13;2.11;2.75;4.91;2.8
+255;Couve;Refogado(a);47.13;2.11;2.75;4.91;2.8
+256;Couve;Molho vermelho;25.6;1.95;0.32;5;2.54
+257;Couve;Ao alho e óleo;47.13;2.11;2.75;4.91;2.8
+258;Couve;Com manteiga/óleo;43.85;2.13;2.38;4.91;2.8
+259;Couve;Ao vinagrete;26;2.11;0.36;4.91;2.8
+260;Couve;Ensopado;47.13;2.11;2.75;4.91;2.8
+261;Couve;Mingau;26;2.11;0.36;4.91;2.8
+262;Couve;Não se aplica;26;2.11;0.36;4.91;2.8
+263;Couveflor;Cru(a);23;1.84;0.45;4.11;2.3
+264;Couveflor;Cozido(a);23;1.84;0.45;4.11;2.3
+265;Couveflor;Frito(a);55.38;1.84;4.11;4.11;2.3
+266;Couveflor;Empanado(a)/à milanesa;137.44;4.17;9.21;10.31;2.08
+267;Couveflor;Refogado(a);55.38;1.84;4.11;4.11;2.3
+268;Couveflor;Ao vinagrete;23;1.84;0.45;4.11;2.3
+269;Couveflor;Não se aplica;23;1.84;0.45;4.11;2.3
+270;Espinafre;Cru(a);23;2.97;0.26;3.75;2.4
+271;Espinafre;Cozido(a);23;2.97;0.26;3.75;2.4
+272;Espinafre;Refogado(a);45.3;2.97;2.78;3.75;2.4
+273;Espinafre;Ao vinagrete;23;2.97;0.26;3.75;2.4
+274;Espinafre;Não se aplica;23;2.97;0.26;3.75;2.4
+275;Mostarda (verdura);Cru(a);26;2.7;0.2;4.9;3.3
+276;Mostarda (verdura);Cozido(a);15;2.26;0.24;2.1;2
+277;Mostarda (verdura);Refogado(a);43.68;2.26;3.48;2.1;2
+278;Mostarda (verdura);Não se aplica;15;2.26;0.24;2.1;2
+279;Repolho;Cru(a);25;1.28;0.1;5.8;2.24
+280;Repolho;Cozido(a);23;1.27;0.06;5.51;1.9
+281;Repolho;Frito(a);49.77;1.27;3.09;5.51;1.9
+282;Repolho;Refogado(a);49.77;1.27;3.09;5.51;1.9
+283;Repolho;Molho branco;23;1.27;0.06;5.51;1.9
+284;Repolho;Ao alho e óleo;49.77;1.27;3.09;5.51;1.9
+285;Repolho;Ao vinagrete;23;1.27;0.06;5.51;1.9
+286;Repolho;Ensopado;49.77;1.27;3.09;5.51;1.9
+287;Repolho;Sopa;31.44;0.95;0.12;7.01;0.71
+288;Repolho;Não se aplica;23;1.27;0.06;5.51;1.9
+289;Cebolinha;Não se aplica;25;1.8;0.1;5.65;3.5
+290;Agrião;Cru(a);25;2.58;0.66;3.65;1.6
+291;Agrião;Cozido(a);11;2.3;0.1;1.29;0.5
+292;Agrião;Ao vinagrete;11;2.3;0.1;1.29;0.5
+293;Agrião;Ensopado;35.75;2.33;2.9;1.29;0.5
+294;Agrião;Não se aplica;25;2.58;0.66;3.65;1.6
+295;Taioba;Cru(a);34;2.9;0.9;5.4;4.5
+296;Taioba;Cozido(a);26;2.11;0.36;4.91;2.8
+297;Taioba;Refogado(a);47.13;2.11;2.75;4.91;2.8
+298;Acelga;Cru(a);19;1.8;0.2;3.74;1.6
+299;Acelga;Cozido(a);14;1.5;0.17;2.41;1.7
+300;Acelga;Refogado(a);47.74;1.5;3.99;2.41;1.7
+301;Acelga;Não se aplica;19;1.8;0.2;3.74;1.6
+302;Beterraba branca (acelga) ;Cozido(a);14;1.5;0.17;2.41;1.7
+303;Almeirão;Cru(a);17;1.25;0.2;3.35;3.1
+304;Almeirão;Cozido(a);22;1.61;0.26;4.31;3.99
+305;Almeirão;Refogado(a);52.88;1.61;3.75;4.31;3.99
+306;Almeirão;Ao vinagrete;22;1.61;0.26;4.31;3.99
+307;Radite;Cru(a);17;1.25;0.2;3.35;3.1
+308;Radite;Refogado(a);52.88;1.61;3.75;4.31;3.99
+309;Radite;Ao vinagrete;22;1.61;0.26;4.31;3.99
+310;Brócolis;Cru(a);34;2.82;0.37;6.64;2.6
+311;Brócolis;Cozido(a);35;2.38;0.41;7.18;3.3
+312;Brócolis;Empanado(a)/à milanesa;181.23;4.18;11.48;15.43;2.06
+313;Brócolis;Refogado(a);60.74;2.38;3.32;7.18;3.3
+314;Brócolis;Ao alho e óleo;60.74;2.38;3.32;7.18;3.3
+315;Brócolis;Ao vinagrete;35;2.38;0.41;7.18;3.3
+316;Brócolis;Não se aplica;35;2.38;0.41;7.18;3.3
+317;Serralha;Cru(a);23;2.97;0.26;3.75;2.4
+318;Serralha;Cozido(a);23;2.97;0.26;3.75;2.4
+319;Serralha;Refogado(a);45.3;2.97;2.78;3.75;2.4
+320;Caruru;Cozido(a);26;2.11;0.36;4.91;2.8
+321;Cuxá;Não se aplica;26;2.11;0.36;4.91;2.8
+322;Vinagreira ;Não se aplica;26;2.11;0.36;4.91;2.8
+323;Cariru;Não se aplica;26;2.11;0.36;4.91;2.8
+324;Rúcula;Não se aplica;25;2.58;0.66;3.65;1.6
+325;Jambu;Não se aplica;32;1.9;0.3;7.2;1.3
+326;Língua de vaca (verdura);Cru(a);30;2.45;0.42;5.69;3.6
+327;Alcachofra;Não se aplica;53;2.89;0.34;11.95;8.6
+328;Bredo;Não se aplica;26;2.11;0.36;4.91;2.8
+329;Salsão (aipo);Refogado(a);18;0.83;0.16;4;1.6
+330;Ervadoce;Não se aplica;31;1.24;0.2;7.29;3.1
+331;Folha de aipim;Cru(a);30;2.45;0.42;5.69;3.6
+332;Folha de macaxeira;Cozido(a);26;2.11;0.36;4.91;2.8
+333;Broto de feijão;Cru(a);30;3.04;0.18;5.94;1.8
+334;Broto de feijão;Cozido(a);53.38;2.03;3.75;4.19;0.8
+335;Moranga;Cozido(a);20;0.72;0.07;4.9;1.1
+336;Moranga;Refogado(a);36.39;0.72;1.92;4.9;1.1
+337;Moranga;Ensopado;36.39;0.72;1.92;4.9;1.1
+338;Moranga;Não se aplica;20;0.72;0.07;4.9;1.1
+339;Abobrinha;Cru(a);16;1.21;0.18;3.35;1.1
+340;Abobrinha;Cozido(a);20;0.91;0.31;4.31;1.4
+341;Abobrinha;Grelhado(a)/brasa/churrasco;20;0.91;0.31;4.31;1.4
+342;Abobrinha;Assado(a);20;0.91;0.31;4.31;1.4
+343;Abobrinha;Frito(a);42.3;0.91;2.83;4.31;1.4
+344;Abobrinha;Empanado(a)/à milanesa;160.71;4.35;8.92;16.01;1.56
+345;Abobrinha;Refogado(a);42.3;0.91;2.83;4.31;1.4
+346;Abobrinha;Ensopado;42.3;0.91;2.83;4.31;1.4
+347;Jerimum;Cru(a);20;0.72;0.07;4.9;1.1
+348;Jerimum;Cozido(a);20;0.72;0.07;4.9;1.1
+349;Abóbora;Cru(a);20;0.72;0.07;4.9;1.1
+350;Abóbora;Cozido(a);20;0.72;0.07;4.9;1.1
+351;Abóbora;Assado(a);20;0.72;0.07;4.9;1.1
+352;Abóbora;Frito(a);36.39;0.72;1.92;4.9;1.1
+353;Abóbora;Refogado(a);36.39;0.72;1.92;4.9;1.1
+354;Abóbora;Molho vermelho;20.8;0.84;0.09;5;1.18
+355;Abóbora;Ensopado;36.39;0.72;1.92;4.9;1.1
+356;Abóbora;Sopa;31.44;0.95;0.12;7.01;0.71
+357;Abóbora;Não se aplica;20;0.72;0.07;4.9;1.1
+358;Pépino;Não se aplica;15;0.65;0.11;3.63;1.14
+359;Chuchu;Cru(a);24;0.62;0.48;5.09;2.8
+360;Chuchu;Cozido(a);24;0.62;0.48;5.09;2.8
+361;Chuchu;Assado(a);24;0.76;0.42;5.15;2.54
+362;Chuchu;Refogado(a);49.09;0.62;3.32;5.09;2.8
+363;Chuchu;Molho vermelho;24;0.76;0.42;5.15;2.54
+364;Chuchu;Ao alho e óleo;49.09;0.62;3.32;5.09;2.8
+365;Chuchu;Ao vinagrete;24;0.62;0.48;5.09;2.8
+366;Chuchu;Ensopado;49.09;0.62;3.32;5.09;2.8
+367;Chuchu;Sopa;31.44;0.95;0.12;7.01;0.71
+368;Jiló;Cru(a);22;1.87;0.21;4.51;2.5
+369;Jiló;Cozido(a);22;1.87;0.21;4.51;2.5
+370;Jiló;Assado(a);22;1.87;0.21;4.51;2.5
+371;Jiló;Frito(a);47.09;1.87;3.05;4.51;2.5
+372;Jiló;Refogado(a);47.09;1.87;3.05;4.51;2.5
+373;Jiló;Com manteiga/óleo;43.19;1.9;2.61;4.51;2.5
+374;Jiló;Ensopado;47.09;1.87;3.05;4.51;2.5
+375;Jiló;Não se aplica;22;1.87;0.21;4.51;2.5
+376;Maxixe;Cru(a);14;1.4;0.1;2.7;2.2
+377;Maxixe;Cozido(a);14;0.4;0.2;3.04;1
+378;Maxixe;Refogado(a);36.94;0.4;2.8;3.04;1
+379;Maxixe;Ensopado;36.94;0.4;2.8;3.04;1
+380;Pepininho (maxixe);Cozido(a);14;0.4;0.2;3.04;1
+381;Pepininho (maxixe);Ao vinagrete;14;0.4;0.2;3.04;1
+382;Palmito in natura;Cru(a);28;2.52;0.62;4.62;2.4
+383;Palmito in natura;Cozido(a);28;2.52;0.62;4.62;2.4
+384;Palmito in natura;Refogado(a);28;2.52;0.62;4.62;2.4
+385;Palmito in natura;Ensopado;28;2.52;0.62;4.62;2.4
+386;Guariroba (palmito in natura);Cozido(a);28;2.52;0.62;4.62;2.4
+387;Guariroba (palmito in natura);Refogado(a);28;2.52;0.62;4.62;2.4
+388;Guariroba (palmito in natura);Molho vermelho;28;2.52;0.62;4.62;2.4
+389;Gueroba (palmito in natura);Cozido(a);28;2.52;0.62;4.62;2.4
+390;Gueroba (palmito in natura);Refogado(a);28;2.52;0.62;4.62;2.4
+391;Pimentão;Não se aplica;20;0.86;0.17;4.64;1.7
+392;Quiabo;Cru(a);22;1.87;0.21;4.51;2.5
+393;Quiabo ;Cozido(a);22;1.87;0.21;4.51;2.5
+394;Quiabo ;Frito(a);47.09;1.87;3.05;4.51;2.5
+395;Quiabo ;Empanado(a)/à milanesa;47.09;1.87;3.05;4.51;2.5
+396;Quiabo ;Refogado(a);47.09;1.87;3.05;4.51;2.5
+397;Quiabo ;Ensopado;47.09;1.87;3.05;4.51;2.5
+398;Quiabo ;Não se aplica;22;1.87;0.21;4.51;2.5
+399;Tomate;Não se aplica;18;0.88;0.2;3.92;1.2
+400;Vagem;Cru(a);35;1.89;0.28;7.88;3.2
+401;Vagem;Cozido(a);35;1.89;0.28;7.88;3.2
+402;Vagem;Refogado(a);67.12;1.89;3.91;7.88;3.2
+403;Vagem;Com manteiga/óleo;67.12;1.89;3.91;7.88;3.2
+404;Vagem;Ensopado;67.12;1.89;3.91;7.88;3.2
+405;Vagem;Não se aplica;35;1.89;0.28;7.88;3.2
+406;Cogumelo in natura;Não se aplica;28;2.17;0.47;5.29;2.2
+407;Berinjela;Cru(a);32.9;0.78;0.22;8.21;2.35
+408;Berinjela;Cozido(a);35;0.83;0.23;8.73;2.5
+409;Berinjela;Assado(a);35;0.83;0.23;8.73;2.5
+410;Berinjela;Frito(a);75.55;0.83;4.82;8.73;2.5
+411;Berinjela;Empanado(a)/à milanesa;164.87;3.69;10.18;15.86;2.71
+412;Berinjela;Refogado(a);75.55;0.83;4.82;8.73;2.5
+413;Berinjela ;Ao vinagrete;35;0.83;0.23;8.73;2.5
+414;Berinjela;Ensopado;75.55;0.83;4.82;8.73;2.5
+415;Berinjela;Não se aplica;35;0.83;0.23;8.73;2.5
+416;Ervilha em vagem;Cozido(a);67.09;3.27;3.07;7.05;2.8
+417;Ervilha em vagem;Refogado(a);67.09;3.27;3.07;7.05;2.8
+418;Cebola;Cru(a);40;1.1;0.1;9.34;1.93
+419;Cebola;Cozido(a);44;1.36;0.19;10.15;1.4
+420;Cebola;Grelhado(a)/brasa/churrasco;44;1.36;0.19;10.15;1.4
+421;Cebola;Assado(a);44;1.36;0.19;10.15;1.4
+422;Cebola;Frito(a);63.12;1.36;2.35;10.15;1.4
+423;Cebola;Refogado(a);63.12;1.36;2.35;10.15;1.4
+424;Cebola;Molho vermelho;40;1.35;0.19;9.2;1.42
+425;Cebola;Com manteiga/óleo;60.15;1.38;2.02;10.15;1.4
+426;Cebola;Ao vinagrete;40;1.1;0.1;9.34;1.93
+427;Cebola;Não se aplica;40;1.1;0.1;9.34;1.93
+428;Catalonha;Refogado(a);42.94;1.88;2.68;4.13;2.1
+429;Jardineira (seleta);Não se aplica;47;2.53;0.26;9.06;2.8
+430;Seleta (jardineira);Não se aplica;47;2.53;0.26;9.06;2.8
+431;Alho;Não se aplica;149;6.36;0.5;33.06;2.1
+432;Alhoporó;Não se aplica;54.48;0.81;2.86;7.62;1
+433;Broto de alfafa;Não se aplica;23;3.99;0.69;2.1;1.9
+434;Alface orgânica;Não se aplica;15;1.36;0.15;2.79;1.3
+435;Tomate orgânico;Não se aplica;18;0.88;0.2;3.92;1.2
+436;Pimentão orgânico;Não se aplica;20;0.86;0.17;4.64;1.7
+437;Orégano;Não se aplica;306;11;10.25;64.43;42.8
+438;Pacová;Não se aplica;78;1.2;0.1;20.3;2
+439;Banana (ouro. prata. d´água. da terra. etc.);Cru(a);89;1.09;0.33;22.84;2.6
+440;Banana (ouro. prata. d´água. da terra. etc.);Cozido(a);89;1.09;0.33;22.84;2.6
+441;Banana (ouro. prata. d´água. da terra. etc.);Assado(a);89;1.09;0.33;22.84;2.6
+442;Banana (ouro. prata. d´água. da terra. etc.);Frito(a);213.11;1.22;13.25;25.47;2.9
+443;Banana (ouro. prata. d´água. da terra. etc.);Empanado(a)/à milanesa;213.11;1.22;13.25;25.47;2.9
+444;Banana (ouro. prata. d´água. da terra. etc.);Com manteiga/óleo;195.41;1.33;11.25;25.48;2.9
+445;Banana (ouro. prata. d´água. da terra. etc.);Ensopado;89;1.09;0.33;22.84;2.6
+446;Banana (ouro. prata. d´água. da terra. etc.);Mingau;112.04;2.29;1.72;23.18;1.54
+447;Banana (ouro. prata. d´água. da terra. etc.);Sopa;112.04;2.29;1.72;23.18;1.54
+448;Banana (ouro. prata. d´água. da terra. etc.);Não se aplica;89;1.09;0.33;22.84;2.6
+449;Laranja (pera. seleta. lima. da terra. etc.);Não se aplica;47;0.94;0.12;11.75;2.35
+450;Lima;Não se aplica;47;0.94;0.12;11.75;2.35
+451;Limão (comum. galego. etc.);Não se aplica;30;0.7;0.2;10.54;2.8
+452;Tangerina;Não se aplica;53;0.81;0.31;13.34;1.8
+453;Mexerica;Não se aplica;53;0.81;0.31;13.34;1.8
+454;Bergamota;Não se aplica;53;0.81;0.31;13.34;1.8
+455;Mimosa;Não se aplica;53;0.81;0.31;13.34;1.8
+456;Tanja;Não se aplica;53;0.81;0.31;13.34;1.8
+457;Maricota;Não se aplica;53;0.81;0.31;13.34;1.8
+458;Laranjinha japonesa;Não se aplica;47;0.94;0.12;11.75;2.35
+459;Canadeaçúcar;Não se aplica;73.58;0;0.05;19.97;0
+460;Abacaxi;Não se aplica;48;0.54;0.12;12.63;1.4
+461;Ananás;Não se aplica;48;0.54;0.12;12.63;1.4
+462;Abacate;Não se aplica;120;2.23;10.06;7.82;5.6
+463;Caqui;Não se aplica;70;0.58;0.19;18.59;3.6
+464;Figo;Não se aplica;74;0.75;0.3;19.18;2.9
+465;Maçã;Não se aplica;52;0.26;0.17;13.81;2.4
+466;Mamão;Não se aplica;39;0.61;0.14;9.81;1.8
+467;Papaia;Não se aplica;39;0.61;0.14;9.81;1.8
+468;Manga;Não se aplica;65;0.51;0.27;17;1.76
+469;Manguito;Não se aplica;65;0.51;0.27;17;1.76
+470;Maracujá;Não se aplica;97;2.2;0.7;23.38;10.4
+471;Melancia;Não se aplica;30;0.61;0.15;7.55;0.4
+472;Melão;Não se aplica;36;0.54;0.14;9.09;0.8
+473;pera;Não se aplica;58;0.38;0.12;15.46;3.16
+474;Pêssego;Não se aplica;39;0.91;0.25;9.54;1.5
+475;Frutadeconde;Não se aplica;74;1.65;0.62;17.7;2.3
+476;Pinha (frutadeconde);Não se aplica;74;1.65;0.62;17.7;2.3
+477;Ata;Não se aplica;74;1.65;0.62;17.7;2.3
+478;Uva;Não se aplica;69;0.72;0.16;18.1;0.9
+479;Uva passa;Não se aplica;299;3.07;0.46;79.18;3.7
+480;Jenipapo ;Não se aplica;113;5.2;0.3;25.7;9.4
+481;Jaca;Não se aplica;94;1.47;0.3;24.01;1.6
+482;Goiaba;Não se aplica;68;2.55;0.95;14.32;5.4
+483;Araçáaçu (goiaba);Não se aplica;68;2.55;0.95;14.32;5.4
+484;Ameixa;Não se aplica;46;0.7;0.28;11.42;1.4
+485;Caju;Não se aplica;43;1;0.3;10.3;1.7
+486;Cereja;Não se aplica;63;1.06;0.2;16.01;2.1
+487;Cajámanga;Não se aplica;46;1.3;0;11.4;2.6
+488;Cajarana;Não se aplica;46;0.2;0.1;12.4;1.1
+489;Taperebá;Não se aplica;70;0.8;2.1;13.8;1
+490;Acaja (taberebá);Não se aplica;46;1.3;0;11.4;2.6
+491;Carambola;Não se aplica;31;1.04;0.33;6.73;2.8
+492;Jabuticaba;Não se aplica;73;0.66;0.5;18.4;7
+493;Graviola;Não se aplica;62;0.8;0.2;15.8;1.9
+494;Morango;Não se aplica;32;0.67;0.3;7.68;2
+495;Jambo;Não se aplica;27;0.9;0.1;6.5;5.1
+496;Atemoia ;Não se aplica;74;1.65;0.62;17.7;2.3
+497;Mangaba;Não se aplica;43;0.7;0.3;10.5;0.8
+498;Araçá;Não se aplica;68;2.55;0.95;14.32;5.4
+499;Nêspera;Não se aplica;47;0.43;0.2;12.14;1.7
+500;Frutapão;Não se aplica;103;1.07;0.23;27.12;4.9
+501;Sapoti;Não se aplica;96;0.7;0.1;25.9;9.9
+502;Uxi;Não se aplica;252;2.2;10.1;38.2;20.5
+503;Tamarindo;Não se aplica;239;2.8;0.6;62.5;5.1
+504;Cacau;Não se aplica;74;1;0.1;19.4;2.2
+505;Pitomba ;Não se aplica;66;0.83;0.44;16.53;1.3
+506;Bacuri;Não se aplica;105;1.9;2;22.8;7.4
+507;Ingá;Não se aplica;60;1;0.1;15.5;1.2
+508;Pequi;Não se aplica;152;1.5;13.4;6.3;4.7
+509;Pitanga ;Não se aplica;41;0.9;0.2;10.2;3.2
+510;Ciriguela;Não se aplica;76;1.4;0.4;18.9;3.9
+511;Murici;Não se aplica;66;0.9;1.3;14.4;2.2
+512;Umbu;Não se aplica;37;0.8;0;9.4;2
+513;Imbu;Não se aplica;37;0.8;0;9.4;2
+514;Biribá;Não se aplica;74;1.65;0.62;17.7;2.3
+515;Cupuaçu;Não se aplica;49;1.2;1;10.4;3.1
+516;Nectarina;Não se aplica;44;1.06;0.32;10.55;1.7
+517;Mari;Não se aplica;281.1;2.7;21.1;20.1;0
+518;Romã;Não se aplica;56;0.4;0;15.1;0.4
+519;Acerola;Não se aplica;32;0.4;0.3;7.69;1.1
+520;Kiwi;Não se aplica;61;1.14;0.52;14.66;3
+521;Abiu;Não se aplica;62;0.8;0.7;14.9;1.7
+522;Jurubeba;Não se aplica;126;4.4;3.9;23.1;1.2
+523;Fruta (não especificada);Não se aplica;89;1.09;0.33;22.84;2.6
+524;Maçã orgânica;Não se aplica;52;0.26;0.17;13.81;2.4
+525;Acerola orgânica;Não se aplica;32;0.4;0.3;7.69;1.1
+526;Amora;Não se aplica;43;1.39;0.49;9.61;5.3
+527;Jamelão (jamburão);Não se aplica;73;0.66;0.5;18.4;7
+528;Demerara;Não se aplica;387;0;0;99.98;0
+529;Açúcar mascavo;Não se aplica;380;0.12;0;98.09;0
+530;Rapadura;Não se aplica;296;0;0;76.6;0
+531;Alfenim de cana;Não se aplica;296;0;0;76.6;0
+532;Batida (rapadura);Não se aplica;380;0.12;0;98.09;0
+533;Sorvete de qualquer sabor industrializado;Não se aplica;206;3.6;11;25.13;0.87
+534;Picolé de qualquer sabor industrializado;Não se aplica;79;0;0.24;19.23;0
+535;Chiclete;Não se aplica;396;0;0;98.9;0.1
+536;Bala;Não se aplica;394;0;0.2;98;0
+537;Caramelo (bala);Não se aplica;382;4.6;8.1;77;0
+538;Drops;Não se aplica;394;0;0.2;98;0
+539;Pastilha;Não se aplica;396;0;0;98.9;0.1
+540;Pirulito;Não se aplica;394;0;0.2;98;0
+541;Goma de mascar;Não se aplica;396;0;0;98.9;0.1
+542;Jujuba;Não se aplica;375;0;0.05;93.55;0.2
+543;Tablete de chocolate;Não se aplica;535;7.65;29.66;59.4;3.4
+544;Barra de chocolate;Não se aplica;535;7.65;29.66;59.4;3.4
+545;Confete;Não se aplica;492;4.33;21.13;71.19;2.8
+546;Chocolate em pó de qualquer marca;Não se aplica;364.24;2.83;3.55;85.53;1.66
+547;Ovomaltine;Não se aplica;388;9.17;5.19;75.13;1.98
+548;Achocolatado em pó;Não se aplica;400;4.55;2.27;90.28;4.5
+549;Toddynho;Não se aplica;83.32;3.18;3.4;10.38;0.8
+550;Bombom de qualquer marca;Não se aplica;373;0;0.02;93.18;0
+551;Trufa ;Não se aplica;487.87;3.57;36.26;49.06;4.55
+552;Geleia de frutas de qualquer marca ou sabor;Não se aplica;278;0.37;0.07;68.86;1.1
+553;Mousse de qualquer sabor (Geleia) ;Não se aplica;331.89;5.09;21.87;32.19;1.18
+554;Geleia de mocotó;Não se aplica;120.25;3.04;0;27.99;0
+555;Doce de frutas em pasta de qualquer sabor;Não se aplica;291.3;0.77;0.29;74.28;1.62
+556;Pasta de amendoim;Não se aplica;588;25.09;50.39;19.56;6
+557;Pessegada;Não se aplica;77;0.54;0.14;19.79;2.2
+558;Marmelada;Não se aplica;278;0.37;0.07;68.86;1.1
+559;Figada;Não se aplica;88;0.38;0.1;22.9;2.2
+560;Goiabada;Não se aplica;291.3;0.77;0.29;74.28;1.62
+561;Caju em pasta;Não se aplica;291.3;0.77;0.29;74.28;1.62
+562;Mariola;Não se aplica;291.3;0.77;0.29;74.28;1.62
+563;Doce de frutas em calda de qualquer sabor;Não se aplica;77;0.54;0.14;19.79;2.2
+564;Doce de frutas cristalizado de qualquer sabor;Não se aplica;291.3;0.77;0.29;74.28;1.62
+565;Melado;Não se aplica;296;0;0;76.6;0
+566;Mel ;Não se aplica;304;0.3;0;82.4;0.2
+567;Gelatina de qualquer sabor;Não se aplica;278;0.37;0.07;68.86;1.1
+568;Adoçante artificial;Não se aplica;0;0;0;0;0
+569;Merengue;Não se aplica;358.26;6.21;0.1;85.89;0
+570;Schimier de cana;Não se aplica;296;0;0;76.6;0
+571;Fruta seca ou desidratada;Não se aplica;240;2.18;0.38;63.88;7.1
+572;Passa;Não se aplica;299;3.07;0.46;79.18;3.7
+573;Pudim de qualquer sabor;Não se aplica;131.15;5.58;5.07;15.44;0
+574;Danette pudim;Não se aplica;131.15;5.58;5.07;15.44;0
+575;Manjar;Não se aplica;284.98;8.2;10.74;40.14;0.34
+576;Cuscuz;Não se aplica;128.3;4.35;0.22;26.42;1.71
+577;Cuscuz de tapioca;Não se aplica;116.99;4.33;4.1;15.51;0.03
+578;Mariamole;Não se aplica;444.92;1.64;19.94;68.84;2.59
+579;Cocada;Não se aplica;404.8;1.01;12.46;75.65;1.58
+580;Quebraqueixo;Não se aplica;404.8;1.01;12.46;75.65;1.58
+581;Doce de amendoim;Não se aplica;451.58;11.16;23.89;55.29;3.73
+582;Pé de moleque;Não se aplica;474;9.1;17.91;69.2;2.42
+583;Paçoca;Não se aplica;472.17;10.35;21.53;64.04;3.89
+584;Torrão de amendoim;Não se aplica;460.34;11.01;24.64;56.27;6.13
+585;Paçoquinha de amendoim;Não se aplica;472.17;10.35;21.53;64.04;3.89
+586;Amendoim caramelizado;Não se aplica;474;9.1;17.91;69.2;2.42
+587;Amendoim amanteigado;Não se aplica;567;25.8;49.24;16.13;8.5
+588;Amendoim achocolatado;Não se aplica;519;13.1;33.5;49.7;4.7
+589;Amendoim apimentado;Não se aplica;567;25.8;49.24;16.13;8.5
+590;Amendoim cozido;Não se aplica;318;13.5;22.01;21.26;8.8
+591;Brigadeiro;Não se aplica;334.48;7.52;10.14;54.86;0.23
+592;Bomba de qualquer tipo;Não se aplica;339.26;6.32;26.93;18.55;0.54
+593;Mil folhas;Não se aplica;440.33;2.36;29.03;43.22;0.43
+594;Queijadinha;Não se aplica;404.8;1.01;12.46;75.65;1.58
+595;Doce à base de ovos;Não se aplica;131.15;5.58;5.07;15.44;0
+596;Caçarola italiana;Não se aplica;284.98;8.2;10.74;40.14;0.34
+597;Quindim;Não se aplica;131.15;5.58;5.07;15.44;0
+598;Fios de ovos;Não se aplica;131.15;5.58;5.07;15.44;0
+599;Doce à base de leite;Não se aplica;319.7;7.88;8.67;54.18;0
+600;Pavê de qualquer sabor;Não se aplica;306.43;4.94;22.24;21.59;0.36
+601;Ambrosia;Não se aplica;144.23;4.09;3.84;23.88;0.26
+602;Leite geleificado;Não se aplica;131.15;5.58;5.07;15.44;0
+603;Chandele de qualquer sabor;Não se aplica;131.15;5.58;5.07;15.44;0
+604;Mumu ;Não se aplica;319.7;7.88;8.67;54.18;0
+605;Canudinho recheado;Não se aplica;123.26;2.43;4.5;21.33;2.22
+606;Sarolho;Não se aplica;336;2;0;82;0
+607;Beiju;Não se aplica;336;2;0;82;0
+608;Schimier de fruta (exceto de cana);Não se aplica;278;0.37;0.07;68.86;1.1
+609;Beijo de moça;Não se aplica;387;0;0;99.98;0
+610;Picolé ensacado;Não se aplica;79;0;0.24;19.23;0
+611;Geladinho;Não se aplica;122.69;0.14;0.09;32.51;0.45
+612;Churro;Não se aplica;401.66;3;23.44;45.94;0.81
+613;Pamonha;Não se aplica;171;2.6;4.8;30.7;2.4
+614;Algodãodoce;Não se aplica;387;0;0;99.98;0
+615;IoIô crem (chocolate em creme);Não se aplica;350;4.6;8.9;62.9;2.8
+616;Ovo de páscoa;Não se aplica;535;7.65;29.66;59.4;3.4
+617;Kinder ovo;Não se aplica;535;7.65;29.66;59.4;3.4
+618;Torrone;Não se aplica;460.34;11.01;24.64;56.27;6.13
+619;Arrozdoce;Não se aplica;108.49;3.05;2.34;18.77;0.1
+620;Polpa de coco;Não se aplica;402;3.8;41.7;9.8;5
+621;Diet shake;Não se aplica;335.52;19.19;1.87;69.94;7.39
+622;Concentrado alimentar diet shake;Não se aplica;335.52;19.19;1.87;69.94;7.39
+623;Açúcar ;Não se aplica;387;0;0;99.98;0
+624;Açúcar light;Não se aplica;400;0;0;100;0
+625;Barra de cereais;Não se aplica;352.92;3.17;8.55;69.44;2.32
+626;Barra de cereais salgada;Não se aplica;352.92;3.17;8.55;69.44;2.32
+627;Barra de cereais doce;Não se aplica;352.92;3.17;8.55;69.44;2.32
+628;Sobremesa de qualquer tipo (exceto infantil);Não se aplica;131.15;5.58;5.07;15.44;0
+629;Rabanada;Não se aplica;293;4.7;16.6;31.3;0.5
+630;Milk shake ;Não se aplica;161.09;3.11;6.43;23.49;0.76
+631;Geleia diet;Não se aplica;52.64;0.47;0.17;12.72;1.4
+632;Doce de frutas diet;Não se aplica;52.64;0.47;0.17;12.72;1.4
+633;Pastéis de santa clara;Não se aplica;131.15;5.58;5.07;15.44;0
+634;Suspiro;Não se aplica;358.26;6.21;0.1;85.89;0
+635;Doce de frutas cristalizado de qualquer sabor diet;Não se aplica;52.64;0.47;0.17;12.72;1.4
+636;Sorvete de qualquer sabor industrializado light;Não se aplica;188.99;4.43;7.67;26.15;0.6
+637;Sorvete de qualquer sabor industrializado diet;Não se aplica;190;3.17;12.7;15.87;4.8
+638;Bala light;Não se aplica;235;0;0;95;0
+639;Chiclete diet;Não se aplica;240;0;0;100;0
+640;Bala diet;Não se aplica;235;0;0;95;0
+641;Barra de chocolate light;Não se aplica;539.79;10.58;41.64;40.42;4.32
+642;Barra de chocolate diet;Não se aplica;539.79;10.58;41.64;40.42;4.32
+643;Achocolatado em pó light;Não se aplica;337.7;29.42;2.39;55.3;4.43
+644;Achocolatado em pó diet;Não se aplica;337.7;29.42;2.39;55.3;4.43
+645;Toddynho diet;Não se aplica;73.29;3.48;3.51;7.09;0.39
+646;Bombom de qualquer marca light;Não se aplica;373;0;0.02;93.18;0
+647;Bombom de qualquer marca diet;Não se aplica;373;0;0.02;93.18;0
+648;Bombom caramelizado de qualquer marca diet;Não se aplica;373;0;0.02;93.18;0
+649;Geleia de frutas de qualquer marca ou sabor light;Não se aplica;179.01;0.36;0.05;46.13;0.35
+650;Geleia light;Não se aplica;179.01;0.36;0.05;46.13;0.35
+651;Geleia de frutas light;Não se aplica;179.01;0.36;0.05;46.13;0.35
+652;Doce de frutas em barra ou pasta light;Não se aplica;179.01;0.36;0.05;46.13;0.35
+653;Doce de frutas em pasta light;Não se aplica;179.01;0.36;0.05;46.13;0.35
+654;Pudim de qualquer sabor light;Não se aplica;119.15;5.68;3.55;15.75;0
+655;Pudim danette light;Não se aplica;119.15;5.68;3.55;15.75;0
+656;Pudim de qualquer sabor diet;Não se aplica;119.15;5.68;3.55;15.75;0
+657;Doce de leite light;Não se aplica;292.29;7.58;3.62;58.98;0
+658;Doce de leite diet;Não se aplica;292.29;7.58;3.62;58.98;0
+659;Barra de cereais diet;Não se aplica;403.45;5.56;5.44;86.36;7.2
+660;Barra de cereais doce diet;Não se aplica;403.45;5.56;5.44;86.36;7.2
+661;Milk shake diet;Não se aplica;335.52;19.19;1.87;69.94;7.39
+662;Cocada diet;Não se aplica;404.8;1.01;12.46;75.65;1.58
+663;Doce de amendoim diet;Não se aplica;599;28.03;52.5;15.26;9.4
+664;Paçoca diet;Não se aplica;599;28.03;52.5;15.26;9.4
+665;Amendoim amanteigado diet;Não se aplica;477.86;7.09;21.64;64.64;2.96
+666;Doce à base de leite diet;Não se aplica;292.29;7.58;3.62;58.98;0
+667;Gelatina de qualquer sabor light;Não se aplica;179.01;0.36;0.05;46.13;0.35
+668;Adoçante light;Não se aplica;365;2.17;0;89.08;0
+669;Adoçante em pó light;Não se aplica;365;2.17;0;89.08;0
+670;Adoçante liquido light;Não se aplica;0;0;0;0;0
+671;Mostarda molho;Não se aplica;67;4.37;4.01;5.33;3.3
+672;Hortelã;Não se aplica;1;0;0;0.2;0
+673;Alcaparra em conserva;Não se aplica;23;2.36;0.86;4.89;3.2
+674;Coentro;Não se aplica;279;21.93;4.78;52.1;10.4
+675;Molho de soja;Não se aplica;53;6.28;0.04;7.61;0.8
+676;Shoyo;Não se aplica;53;6.28;0.04;7.61;0.8
+677;Leite de coco;Não se aplica;202.46;1.61;20.85;5.59;0.91
+678;Maionese (molho);Não se aplica;261.05;0.47;23.33;13.38;0.06
+679;Massa de tomate;Não se aplica;38;1.65;0.21;8.98;1.9
+680;Molho de tomate;Não se aplica;24;1.32;0.18;5.38;1.5
+681;Ketchup;Não se aplica;97;1.74;0.31;25.15;0.3
+682;Catchup;Não se aplica;97;1.74;0.31;25.15;0.3
+683;Pimenta em pó;Não se aplica;255;10.95;3.26;64.81;26.5
+684;Tucupi em caldo sem pimenta;Não se aplica;4.87;0.01;0;1.3;0.01
+685;Creme de queijo;Não se aplica;209.66;10.34;15.81;6.72;0.1
+686;Caldo de peixe;Não se aplica;16;2;0.6;0.4;0
+687;Caldo de tomate;Não se aplica;37.65;0.75;0.78;7.39;0.46
+688;Gergelim;Não se aplica;631;20.45;61.21;11.73;11.6
+689;Tomate seco;Não se aplica;213;5.06;14.08;23.33;5.8
+690;Maionese (molho) light;Não se aplica;156.58;0.59;9.46;18.77;1.24
+691;Molho de soja light;Não se aplica;53.13;5.18;0.08;8.53;0.8
+692;Leite de coco light;Não se aplica;202.46;1.61;20.85;5.59;0.91
+693;Vinagrete;Não se aplica;76.79;0.65;6.21;3.68;0.93
+694;Filémignon;Cozido(a);204;30.67;9;0;0
+695;Filémignon;Grelhado(a)/brasa/churrasco;204;30.67;9;0;0
+696;Filémignon;Assado(a);204;30.67;9;0;0
+697;Filémignon;Frito(a);226.66;30.67;11.56;0;0
+698;Filémignon;Empanado(a)/à milanesa;242.84;31.13;11.61;3.39;0.14
+699;Filémignon;Refogado(a);226.66;30.67;11.56;0;0
+700;Filémignon;Molho vermelho;168;24.8;7.24;1.08;0.3
+701;Filémignon;Molho branco;195.79;25.32;9.69;1.85;0.04
+702;Filémignon;Com manteiga/óleo;223.14;30.69;11.17;0;0
+703;Filémignon;Não se aplica;204;30.67;9;0;0
+704;Contrafilé;Cozido(a);204;30.67;9;0;0
+705;Contrafilé;Grelhado(a)/brasa/churrasco;204;30.67;9;0;0
+706;Contrafilé;Assado(a);204;30.67;9;0;0
+707;Contrafilé;Frito(a);226.66;30.67;11.56;0;0
+708;Contrafilé;Empanado(a)/à milanesa;242.84;31.13;11.61;3.39;0.14
+709;Contrafilé;Refogado(a);226.66;30.67;11.56;0;0
+710;Contrafilé;Molho vermelho;168;24.8;7.24;1.08;0.3
+711;Bisteca bovina;Cru(a);471;21.57;41.98;0;0
+712;Bisteca bovina;Cozido(a);471;21.57;41.98;0;0
+713;Bisteca bovina;Grelhado(a)/brasa/churrasco;471;21.57;41.98;0;0
+714;Bisteca bovina;Assado(a);471;21.57;41.98;0;0
+715;Bisteca bovina;Frito(a);471;21.57;41.98;0;0
+716;Bisteca bovina;Empanado(a)/à milanesa;329.84;26.31;22.65;3.39;0.14
+717;Bisteca bovina;Refogado(a);471;21.57;41.98;0;0
+718;Bisteca bovina;Molho vermelho;381.6;17.52;33.62;1.08;0.3
+719;Alcatra;Cru(a);204;30.67;9;0;0
+720;Alcatra ;Cozido(a);204;30.67;9;0;0
+721;Alcatra;Grelhado(a)/brasa/churrasco;204;30.67;9;0;0
+722;Alcatra;Assado(a);204;30.67;9;0;0
+723;Alcatra;Frito(a);253.57;30.67;14.61;0;0
+724;Alcatra;Empanado(a)/à milanesa;253.57;30.67;14.61;0;0
+725;Alcatra;Refogado(a);253.57;30.67;14.61;0;0
+726;Alcatra;Molho vermelho;168;24.8;7.24;1.08;0.3
+727;Alcatra;Ao vinagrete;204;30.67;9;0;0
+728;Alcatra;Ensopado;253.57;30.67;14.61;0;0
+729;Maminha;Grelhado(a)/brasa/churrasco;199;36.12;5;0;0
+730;Maminha;Assado(a);199;36.12;5;0;0
+731;Maminha;Frito(a);248.57;36.12;10.61;0;0
+732;Maminha;Molho vermelho;164;29.16;4.04;1.08;0.3
+733;Picanha;Cozido(a);204;30.67;9;0;0
+734;Picanha;Grelhado(a)/brasa/churrasco;204;30.67;9;0;0
+735;Picanha;Assado(a);204;30.67;9;0;0
+736;Picanha ;Frito(a);253.57;30.67;14.61;0;0
+737;Picanha ;Ensopado;253.57;30.67;14.61;0;0
+738;Patinho;Cozido(a);199;36.12;5;0;0
+739;Patinho;Grelhado(a)/brasa/churrasco;199;36.12;5;0;0
+740;Patinho;Assado(a);199;36.12;5;0;0
+741;Patinho;Frito(a);248.57;36.12;10.61;0;0
+742;Patinho;Empanado(a)/à milanesa;248.57;36.12;10.61;0;0
+743;Patinho;Molho vermelho;164;29.16;4.04;1.08;0.3
+744;Patinho;Ensopado;248.57;36.12;10.61;0;0
+745;Cabeça de lombo (carne bovina);Cozido(a);199;36.12;5;0;0
+746;Cabeça de lombo (carne bovina);Grelhado(a)/brasa/churrasco;199;36.12;5;0;0
+747;Cabeça de lombo (carne bovina);Assado(a);199;36.12;5;0;0
+748;Cabeça de lombo (carne bovina);Frito(a);248.57;36.12;10.61;0;0
+749;Cabeça de lombo (carne bovina);Empanado(a)/à milanesa;248.57;36.12;10.61;0;0
+750;Cabeça de lombo (carne bovina);Refogado(a);248.57;36.12;10.61;0;0
+751;Posta branca;Cozido(a);199;36.12;5;0;0
+752;Posta branca;Frito(a);248.57;36.12;10.61;0;0
+753;Posta branca;Molho vermelho;164;29.16;4.04;1.08;0.3
+754;Tatu (lagarto redondo);Cozido(a);199;36.12;5;0;0
+755;Tatu (lagarto redondo);Assado(a);199;36.12;5;0;0
+756;Tatu (lagarto redondo);Refogado(a);248.57;36.12;10.61;0;0
+757;Tatu (lagarto redondo);Não se aplica;199;36.12;5;0;0
+758;Paulista;Cozido(a);199;36.12;5;0;0
+759;Paulista;Assado(a);199;36.12;5;0;0
+760;Lombo paulista (carne bovina);Cozido(a);199;36.12;5;0;0
+761;Lombo paulista (carne bovina);Assado(a);199;36.12;5;0;0
+762;Lombo paulista (carne bovina);Frito(a);248.57;36.12;10.61;0;0
+763;Lombo paulista (carne bovina);Ensopado;248.57;36.12;10.61;0;0
+764;Posta vermelha;Cozido(a);199;36.12;5;0;0
+765;Acém;Cozido(a);242;24.22;15.42;0;0
+766;Acém;Assado(a);242;24.22;15.42;0;0
+767;Acém;Frito(a);264.66;24.22;17.98;0;0
+768;Acém;Empanado(a)/à milanesa;280.84;24.68;18.03;3.39;0.14
+769;Acém;Refogado(a);264.66;24.22;17.98;0;0
+770;Acém;Ensopado;264.66;24.22;17.98;0;0
+771;Agulha (acém);Cozido(a);242;24.22;15.42;0;0
+772;Agulha (acém);Assado(a);242;24.22;15.42;0;0
+773;Agulha (acém);Frito(a);264.66;24.22;17.98;0;0
+774;Paleta ;Cozido(a);242;24.22;15.42;0;0
+775;Paleta ;Frito(a);264.66;24.22;17.98;0;0
+776;Paleta ;Molho vermelho;198.4;19.64;12.37;1.08;0.3
+777;Paleta ;Ensopado;264.66;24.22;17.98;0;0
+778;Pá com osso;Cozido(a);242;24.22;15.42;0;0
+779;Pá com osso;Grelhado(a)/brasa/churrasco;242;24.22;15.42;0;0
+780;Pá com osso;Assado(a);242;24.22;15.42;0;0
+781;Músculo bovino;Cozido(a);199;36.12;5;0;0
+782;Músculo bovino;Assado(a);199;36.12;5;0;0
+783;Músculo bovino;Molho vermelho;164;29.16;4.04;1.08;0.3
+784;Músculo bovino;Ensopado;221.66;36.12;7.56;0;0
+785;Músculo bovino;Sopa;63.94;3.81;1.81;7.73;0.39
+786;Chambaril;Cozido(a);242;24.22;15.42;0;0
+787;Chambaril;Assado(a);242;24.22;15.42;0;0
+788;Chambaril;Refogado(a);264.66;24.22;17.98;0;0
+789;Carne marica bovina;Cozido(a);199;36.12;5;0;0
+790;Carne marica bovina;Frito(a);221.66;36.12;7.56;0;0
+791;Carne marica bovina;Refogado(a);221.66;36.12;7.56;0;0
+792;Vazio (carne bovina);Cozido(a);204;30.67;9;0;0
+793;Vazio (carne bovina);Grelhado(a)/brasa/churrasco;204;30.67;9;0;0
+794;Vazio (carne bovina);Frito(a);226.66;30.67;11.56;0;0
+795;Peito bovino;Cozido(a);204;30.67;9;0;0
+796;Peito bovino;Frito(a);226.66;30.67;11.56;0;0
+797;Fraldinha (capa de filé);Cozido(a);199;36.12;5;0;0
+798;Fraldinha (capa de filé);Grelhado(a)/brasa/churrasco;199;36.12;5;0;0
+799;Fraldinha (capa de filé);Assado(a);199;36.12;5;0;0
+800;Fraldinha (capa de filé);Frito(a);221.66;36.12;7.56;0;0
+801;Aba de filé ;Cru(a);242;24.22;15.42;0;0
+802;Aba de filé ;Grelhado(a)/brasa/churrasco;242;24.22;15.42;0;0
+803;Aba de filé ;Frito(a);264.66;24.22;17.98;0;0
+804;Costela bovina;Cozido(a);365;22.6;29.79;0;0
+805;Costela bovina;Assado(a);365;22.6;29.79;0;0
+806;Costela bovina;Refogado(a);365;22.6;29.79;0;0
+807;Costela bovina;Ensopado;365;22.6;29.79;0;0
+808;Jacaré (carne bovina de segunda c/ osso);Cozido(a);365;22.6;29.79;0;0
+809;Jacaré (carne bovina de segunda c/ osso);Assado(a);365;22.6;29.79;0;0
+810;Jacaré (carne bovina de segunda c/ osso);Frito(a);365;22.6;29.79;0;0
+811;Filé de segunda;Grelhado(a)/brasa/churrasco;242;24.22;15.42;0;0
+812;Filé de segunda;Assado(a);242;24.22;15.42;0;0
+813;Filé de segunda;Frito(a);264.66;24.22;17.98;0;0
+814;Filé de segunda;Empanado(a)/à milanesa;280.84;24.68;18.03;3.39;0.14
+815;Filé de segunda;Ao alho e óleo;264.66;24.22;17.98;0;0
+816;Víscera bovina ;Cozido(a);191;29.08;5.26;5.13;0
+817;Víscera bovina ;Frito(a);213.66;29.08;7.82;5.13;0
+818;Panelada (vísceras bovinas não especificadas);Cozido(a);100.04;13.98;2.96;4.18;0.62
+819;Panelada (vísceras bovinas não especificadas);Ensopado;100.04;13.98;2.96;4.18;0.62
+820;Coração bovino;Cozido(a);165;28.48;4.73;0.15;0
+821;Coração bovino;Grelhado(a)/brasa/churrasco;165;28.48;4.73;0.15;0
+822;Coração bovino;Assado(a);165;28.48;4.73;0.15;0
+823;Coração bovino;Frito(a);187.66;28.48;7.29;0.15;0
+824;Rim de boi ;Cozido(a);158;27.27;4.65;0;0
+825;Bofe bovino;Assado(a);158;27.27;4.65;0;0
+826;Bofe bovino;Frito(a);180.66;27.27;7.21;0;0
+827;Bofe bovino;Refogado(a);180.66;27.27;7.21;0;0
+828;Miolo de boi;Cozido(a);151;11.67;10.53;1.48;0
+829;Tripa bovina;Cozido(a);94;11.71;4.05;1.99;0
+830;Tripa bovina;Grelhado(a)/brasa/churrasco;94;11.71;4.05;1.99;0
+831;Tripa bovina;Assado(a);94;11.71;4.05;1.99;0
+832;Tripa bovina;Frito(a);116.66;11.71;6.61;1.99;0
+833;Dobradinha fresca;Cozido(a);94;11.71;4.05;1.99;0
+834;Dobradinha fresca;Assado(a);94;11.71;4.05;1.99;0
+835;Dobradinha fresca;Molho vermelho;80;9.63;3.28;2.67;0.3
+836;Dobradinha fresca;Ensopado;116.66;11.71;6.61;1.99;0
+837;Dobradinha fresca;Não se aplica;94;11.71;4.05;1.99;0
+838;Fato bovino;Cozido(a);94;11.71;4.05;1.99;0
+839;Fato bovino;Frito(a);116.66;11.71;6.61;1.99;0
+840;Fato caprino;Cozido(a);94;11.71;4.05;1.99;0
+841;Fígado bovino;Cru(a);191;29.08;5.26;5.13;0
+842;Fígado bovino;Cozido(a);191;29.08;5.26;5.13;0
+843;Fígado bovino;Grelhado(a)/brasa/churrasco;191;29.08;5.26;5.13;0
+844;Fígado bovino;Assado(a);191;29.08;5.26;5.13;0
+845;Fígado bovino;Frito(a);213.66;29.08;7.82;5.13;0
+846;Fígado bovino;Empanado(a)/à milanesa;229.84;29.54;7.87;8.52;0.14
+847;Fígado bovino;Refogado(a);213.66;29.08;7.82;5.13;0
+848;Fígado bovino;Molho vermelho;157.6;23.53;4.24;5.18;0.3
+849;Fígado bovino;Ao alho e óleo;213.66;29.08;7.82;5.13;0
+850;Fígado bovino;Ensopado;213.66;29.08;7.82;5.13;0
+851;Cupim;Grelhado(a)/brasa/churrasco;330.1;28.63;23.04;0;0
+852;Cupim;Assado(a);330.1;28.63;23.04;0;0
+853;Cupim;Frito(a);363.08;26.91;27.63;0;0
+854;Língua bovina;Cozido(a);284;19.29;22.3;0;0
+855;Língua bovina;Grelhado(a)/brasa/churrasco;284;19.29;22.3;0;0
+856;Língua bovina;Assado(a);284;19.29;22.3;0;0
+857;Língua bovina;Frito(a);306.66;19.29;24.86;0;0
+858;Língua bovina;Molho vermelho;232;15.7;17.88;1.08;0.3
+859;Língua bovina;Ensopado;306.66;19.29;24.86;0;0
+860;Rabada de boi;Não se aplica;365;22.6;29.79;0;0
+861;Mocotó bovino;Cozido(a);214;28.81;10.13;0;0
+862;Mocotó bovino;Ensopado;214;28.81;10.13;0;0
+863;Mocotó bovino;Sopa;63.94;3.81;1.81;7.73;0.39
+864;Mocotó bovino;Não se aplica;214;28.81;10.13;0;0
+865;Braço bovino;Frito(a);221.66;36.12;7.56;0;0
+866;Mão bovina;Cozido(a);214;28.81;10.13;0;0
+867;Carré ;Cozido(a);397;29.06;30.3;0;0
+868;Carré ;Grelhado(a)/brasa/churrasco;397;29.06;30.3;0;0
+869;Carré ;Assado(a);397;29.06;30.3;0;0
+870;Carré ;Frito(a);397;29.06;30.3;0;0
+871;Bisteca suína;Cozido(a);397;29.06;30.3;0;0
+872;Bisteca suína;Grelhado(a)/brasa/churrasco;397;29.06;30.3;0;0
+873;Bisteca suína;Assado(a);397;29.06;30.3;0;0
+874;Bisteca suína;Frito(a);397;29.06;30.3;0;0
+875;Bisteca suína;Empanado(a)/à milanesa;397;29.06;30.3;0;0
+876;Bisteca suína;Refogado(a);397;29.06;30.3;0;0
+877;Bisteca suína;Não se aplica;397;29.06;30.3;0;0
+878;Pernil suíno;Cozido(a);289;25.34;20.06;0;0
+879;Pernil suíno;Assado(a);289;25.34;20.06;0;0
+880;Pernil suíno;Frito(a);338.57;25.34;25.67;0;0
+881;Pernil suíno;Refogado(a);338.57;25.34;25.67;0;0
+882;Quarto suíno;Cozido(a);289;25.34;20.06;0;0
+883;Costela suína;Cru(a);397;29.06;30.3;0;0
+884;Costela suína;Cozido(a);397;29.06;30.3;0;0
+885;Costela suína;Grelhado(a)/brasa/churrasco;397;29.06;30.3;0;0
+886;Costela suína;Assado(a);397;29.06;30.3;0;0
+887;Costela suína;Frito(a);397;29.06;30.3;0;0
+888;Costela suína;Refogado(a);397;29.06;30.3;0;0
+889;Costela suína;Molho vermelho;322.4;23.51;24.28;1.08;0.3
+890;Costela suína;Ensopado;397;29.06;30.3;0;0
+891;Costela suína;Não se aplica;397;29.06;30.3;0;0
+892;Lombo suíno;Cozido(a);289;25.34;20.06;0;0
+893;Lombo suíno;Grelhado(a)/brasa/churrasco;289;25.34;20.06;0;0
+894;Lombo suíno;Assado(a);289;25.34;20.06;0;0
+895;Lombo suíno;Frito(a);338.57;25.34;25.67;0;0
+896;Toucinho;Não se aplica;541;37.04;41.78;1.43;0
+897;Míudo suíno;Cozido(a);165;26.02;4.4;3.76;0
+898;Arrasto suíno;Não se aplica;100.04;13.98;2.96;4.18;0.62
+899;Sarapatel suíno fresco;Não se aplica;100.04;13.98;2.96;4.18;0.62
+900;Carne suína;Cru(a);289;25.34;20.06;0;0
+901;Carne suína;Cozido(a);289;25.34;20.06;0;0
+902;Carne suína;Grelhado(a)/brasa/churrasco;289;25.34;20.06;0;0
+903;Carne suína;Assado(a);289;25.34;20.06;0;0
+904;Carne suína;Frito(a);338.57;25.34;25.67;0;0
+905;Carne suína;Empanado(a)/à milanesa;338.57;25.34;25.67;0;0
+906;Carne suína;Refogado(a);338.57;25.34;25.67;0;0
+907;Carne suína;Molho vermelho;236;20.54;16.08;1.08;0.3
+908;Carne suína;Ao alho e óleo;338.57;25.34;25.67;0;0
+909;Carne suína;Ensopado;338.57;25.34;25.67;0;0
+910;Carne suína;Não se aplica;289;25.34;20.06;0;0
+911;Carne moída ;Cru(a);214;26.62;11.1;0;0
+912;Carne moída;Cozido(a);214;26.62;11.1;0;0
+913;Carne moída;Assado(a);214;26.62;11.1;0;0
+914;Carne moída;Frito(a);236.66;26.62;13.66;0;0
+915;Carne moída;Empanado(a)/à milanesa;236.66;26.62;13.66;0;0
+916;Carne moída;Refogado(a);236.66;26.62;13.66;0;0
+917;Carne moída;Molho vermelho;176;21.56;8.92;1.08;0.3
+918;Carne moída;Molho branco;203.79;22.08;11.37;1.85;0.04
+919;Carne moída;Ao alho e óleo;236.66;26.62;13.66;0;0
+920;Carne moída;Ensopado;236.66;26.62;13.66;0;0
+921;Carne moída;Sopa;63.94;3.81;1.81;7.73;0.39
+922;Carne moída;Não se aplica;214;26.62;11.1;0;0
+923;Guisado ;Não se aplica;242;24.22;15.42;0;0
+924;Tripa suína;Grelhado(a)/brasa/churrasco;233;12.49;20.32;0;0
+925;Tripa suína;Frito(a);255.66;12.49;22.88;0;0
+926;Figado suíno;Cozido(a);165;26.02;4.4;3.76;0
+927;Figado suíno;Assado(a);165;26.02;4.4;3.76;0
+928;Figado suíno;Frito(a);187.66;26.02;6.96;3.76;0
+929;Língua suína;Cozido(a);271;24.1;18.6;0;0
+930;Língua suína;Grelhado(a)/brasa/churrasco;271;24.1;18.6;0;0
+931;Língua suína;Assado(a);271;24.1;18.6;0;0
+932;Língua suína;Frito(a);293.66;24.1;21.16;0;0
+933;Língua suína;Refogado(a);293.66;24.1;21.16;0;0
+934;Orelha suína fresca;Cozido(a);214;28.81;10.13;0;0
+935;Sarrabulho;Não se aplica;100.04;13.98;2.96;4.18;0.62
+936;Mocotó suíno;Cozido(a);214;28.81;10.13;0;0
+937;Carne de cabrito ;Cozido(a);143;27.1;3.03;0;0
+938;Carne de cabrito ;Grelhado(a)/brasa/churrasco;143;27.1;3.03;0;0
+939;Carne de cabrito ;Assado(a);143;27.1;3.03;0;0
+940;Carne de bode;Cozido(a);143;27.1;3.03;0;0
+941;Carne de bode ;Grelhado(a)/brasa/churrasco;143;27.1;3.03;0;0
+942;Carne de bode ;Assado(a);143;27.1;3.03;0;0
+943;Carne de bode ;Frito(a);165.66;27.1;5.59;0;0
+944;Carne caprina;Cozido(a);143;27.1;3.03;0;0
+945;Carne caprina;Assado(a);143;27.1;3.03;0;0
+946;Carne caprina;Frito(a);165.66;27.1;5.59;0;0
+947;Carne caprina;Ensopado;165.66;27.1;5.59;0;0
+948;Carne de caprino;Cru(a);143;27.1;3.03;0;0
+949;Carne de caprino;Cozido(a);143;27.1;3.03;0;0
+950;Carne de caprino;Frito(a);165.66;27.1;5.59;0;0
+951;Carne de carneiro;Cozido(a);204;28.35;9.17;0;0
+952;Carne de carneiro;Grelhado(a)/brasa/churrasco;204;28.35;9.17;0;0
+953;Carne de carneiro;Assado(a);204;28.35;9.17;0;0
+954;Carne de carneiro;Frito(a);253.57;28.35;14.78;0;0
+955;Carne de carneiro;Ensopado;253.57;28.35;14.78;0;0
+956;Carne de ovelha;Cozido(a);204;28.35;9.17;0;0
+957;Carne de ovelha;Grelhado(a)/brasa/churrasco;204;28.35;9.17;0;0
+958;Carne de ovelha;Assado(a);204;28.35;9.17;0;0
+959;Carne de ovelha;Frito(a);253.57;28.35;14.78;0;0
+960;Mocotó de caprino;Cozido(a);214;28.81;10.13;0;0
+961;Pernil ;Cozido(a);289;25.34;20.06;0;0
+962;Pernil ;Grelhado(a)/brasa/churrasco;289;25.34;20.06;0;0
+963;Pernil ;Assado(a);289;25.34;20.06;0;0
+964;Pernil ;Frito(a);338.57;25.34;25.67;0;0
+965;Lagarto bovino ;Cozido(a);199;36.12;5;0;0
+966;Lagarto bovino ;Assado(a);199;36.12;5;0;0
+967;Lagarto bovino ;Frito(a);248.57;36.12;10.61;0;0
+968;Lagarto bovino ;Refogado(a);248.57;36.12;10.61;0;0
+969;Lagarto bovino ;Molho vermelho;164;29.16;4.04;1.08;0.3
+970;Alcatra suína;Cozido(a);289;25.34;20.06;0;0
+971;Alcatra suína;Assado(a);289;25.34;20.06;0;0
+972;Alcatra suína ;Frito(a);338.57;25.34;25.67;0;0
+973;Brachola;Não se aplica;204;30.67;9;0;0
+974;Bife role cru;Não se aplica;204;30.67;9;0;0
+975;Buchada de bode;Não se aplica;125;19.8;4.4;0;3.9
+976;Suã suína;Cozido(a);397;29.06;30.3;0;0
+977;Suã suína;Frito(a);397;29.06;30.3;0;0
+978;Carne de outros animais;Cru(a);242;24.22;15.42;0;0
+979;Carne de outros animais;Cozido(a);242;24.22;15.42;0;0
+980;Carne de outros animais;Grelhado(a)/brasa/churrasco;242;24.22;15.42;0;0
+981;Carne de outros animais;Assado(a);242;24.22;15.42;0;0
+982;Carne de outros animais;Frito(a);264.66;24.22;17.98;0;0
+983;Carne de outros animais;Refogado(a);264.66;24.22;17.98;0;0
+984;Carne de outros animais;Molho vermelho;198.4;19.64;12.37;1.08;0.3
+985;Carne de outros animais;Ensopado;264.66;24.22;17.98;0;0
+986;Carne de outros animais;Não se aplica;242;24.22;15.42;0;0
+987;Carne da paca;Cozido(a);212;34.85;6.96;0;0
+988;Carne da paca;Assado(a);212;34.85;6.96;0;0
+989;Carne da paca;Frito(a);234.66;34.85;9.52;0;0
+990;Carne de jacaré;Cozido(a);92;19.4;1.6;0;0
+991;Carne de jacaré;Frito(a);114.66;19.4;4.16;0;0
+992;Carne de capivara;Cozido(a);212;34.85;6.96;0;0
+993;Carne de capivara;Assado(a);212;34.85;6.96;0;0
+994;Carne de capivara;Frito(a);234.66;34.85;9.52;0;0
+995;Carne de cotia;Cozido(a);212;34.85;6.96;0;0
+996;Carne de cotia;Assado(a);212;34.85;6.96;0;0
+997;Carne de jabuti;Cozido(a);117;24.16;1.53;0;0
+998;Carne de primeira ;Cozido(a);204;30.67;9;0;0
+999;Carne de primeira ;Grelhado(a)/brasa/churrasco;204;30.67;9;0;0
+1000;Carne de primeira ;Assado(a);204;30.67;9;0;0
+1001;Carne de primeira ;Frito(a);226.66;30.67;11.56;0;0
+1002;Carne de primeira ;Empanado(a)/à milanesa;242.84;31.13;11.61;3.39;0.14
+1003;Carne de primeira ;Refogado(a);226.66;30.67;11.56;0;0
+1004;Carne de primeira ;Molho vermelho;168;24.8;7.24;1.08;0.3
+1005;Carne de primeira ;Molho branco;195.79;25.32;9.69;1.85;0.04
+1006;Carne de primeira ;Com manteiga/óleo;223.14;30.69;11.17;0;0
+1007;Chuleta;Cozido(a);204;30.67;9;0;0
+1008;Chuleta;Grelhado(a)/brasa/churrasco;204;30.67;9;0;0
+1009;Chuleta;Assado(a);204;30.67;9;0;0
+1010;Chuleta;Frito(a);226.66;30.67;11.56;0;0
+1011;Filé não especificado;Cru(a);204;30.67;9;0;0
+1012;Filé não especificado;Cozido(a);204;30.67;9;0;0
+1013;Filé não especificado;Grelhado(a)/brasa/churrasco;204;30.67;9;0;0
+1014;Filé não especificado;Assado(a);204;30.67;9;0;0
+1015;Filé não especificado;Frito(a);226.66;30.67;11.56;0;0
+1016;Filé não especificado;Empanado(a)/à milanesa;242.84;31.13;11.61;3.39;0.14
+1017;Filé não especificado;Refogado(a);226.66;30.67;11.56;0;0
+1018;Filé não especificado;Molho vermelho;168;24.8;7.24;1.08;0.3
+1019;Filé não especificado;Com manteiga/óleo;223.14;30.69;11.17;0;0
+1020;Filé não especificado;Ensopado;226.66;30.67;11.56;0;0
+1021;Filé não especificado;Não se aplica;204;30.67;9;0;0
+1022;Miúdo de bode ;Cozido(a);191;29.08;5.26;5.13;0
+1023;Pé suíno fresco;Cozido(a);214;28.81;10.13;0;0
+1024;Pé suíno fresco;Grelhado(a)/brasa/churrasco;214;28.81;10.13;0;0
+1025;Pé suíno fresco;Frito(a);236.66;28.81;12.69;0;0
+1026;Carne bovina ;Cru(a);242;24.22;15.42;0;0
+1027;Carne bovina ;Cozido(a);242;24.22;15.42;0;0
+1028;Carne bovina;Grelhado(a)/brasa/churrasco;242;24.22;15.42;0;0
+1029;Carne bovina;Assado(a);242;24.22;15.42;0;0
+1030;Carne bovina;Frito(a);264.66;24.22;17.98;0;0
+1031;Carne bovina;Empanado(a)/à milanesa;280.84;24.68;18.03;3.39;0.14
+1032;Carne bovina ;Refogado(a);264.66;24.22;17.98;0;0
+1033;Carne bovina ;Molho vermelho;198.4;19.64;12.37;1.08;0.3
+1034;Carne bovina ;Molho branco;226.19;20.16;14.83;1.85;0.04
+1035;Carne bovina ;Ao alho e óleo;261.14;24.24;17.59;0;0
+1036;Carne bovina;Com manteiga/óleo;261.14;24.24;17.59;0;0
+1037;Carne bovina ;Ao vinagrete;242;24.22;15.42;0;0
+1038;Carne bovina;Ensopado;264.66;24.22;17.98;0;0
+1039;Carne bovina ;Sopa;63.94;3.81;1.81;7.73;0.39
+1040;Carne bovina ;Não se aplica;242;24.22;15.42;0;0
+1041;Lombo não especificado;Cru(a);289;25.34;20.06;0;0
+1042;Lombo não especificado;Cozido(a);289;25.34;20.06;0;0
+1043;Lombo não especificado;Assado(a);289;25.34;20.06;0;0
+1044;Lombo não especificado;Frito(a);338.57;25.34;25.67;0;0
+1045;Lombo não especificado;Molho branco;289;25.34;20.06;0;0
+1046;Músculo não especificado;Cozido(a);199;36.12;5;0;0
+1047;Músculo não especificado;Ensopado;221.66;36.12;7.56;0;0
+1048;Ossada não especificada;Cozido(a);164;26.13;5.81;0;0
+1049;Ossada não especificada;Refogado(a);186.66;26.13;8.37;0;0
+1050;Ossada não especificada;Sopa;164;26.13;5.81;0;0
+1051;Ossada não especificada;Não se aplica;164;26.13;5.81;0;0
+1052;Carne de segunda ;Cru(a);242;24.22;15.42;0;0
+1053;Carne de segunda ;Cozido(a);242;24.22;15.42;0;0
+1054;Carne de segunda ;Grelhado(a)/brasa/churrasco;242;24.22;15.42;0;0
+1055;Carne de segunda ;Assado(a);242;24.22;15.42;0;0
+1056;Carne de segunda ;Frito(a);264.66;24.22;17.98;0;0
+1057;Carne de segunda ;Empanado(a)/à milanesa;280.84;24.68;18.03;3.39;0.14
+1058;Carne de segunda ;Refogado(a);264.66;24.22;17.98;0;0
+1059;Carne de segunda ;Molho vermelho;198.4;19.64;12.37;1.08;0.3
+1060;Carne de segunda ;Ao alho e óleo;261.14;24.24;17.59;0;0
+1061;Carne de segunda ;Ensopado;264.66;24.22;17.98;0;0
+1062;Contrafilé orgânico;Assado(a);204;30.67;9;0;0
+1063;Bisteca orgânica;Assado(a);471;21.57;41.98;0;0
+1064;Bisteca orgânica;Frito(a);471;21.57;41.98;0;0
+1065;Cabeça de lombo (carne bovina) orgânica;Cru(a);199;36.12;5;0;0
+1066;Cabeça de lombo (carne bovina) orgânica;Assado(a);199;36.12;5;0;0
+1067;Cabeça de lombo (carne bovina) orgânica;Frito(a);248.57;36.12;10.61;0;0
+1068;Tatu (lagarto redondo) orgânico;Assado(a);199;36.12;5;0;0
+1069;Peixe de mar (inteiro. em posta. em filé. etc.)  ;Cru(a);117;24.16;1.53;0;0
+1070;Peixe de mar (inteiro. em posta. em filé. etc.)  ;Cozido(a);117;24.16;1.53;0;0
+1071;Peixe de mar (inteiro. em posta. em filé. etc.)  ;Grelhado(a)/brasa/churrasco;117;24.16;1.53;0;0
+1072;Peixe de mar (inteiro. em posta. em filé. etc.)  ;Assado(a);117;24.16;1.53;0;0
+1073;Peixe de mar (inteiro. em posta. em filé. etc.)  ;Frito(a);139.66;24.16;4.09;0;0
+1074;Peixe de mar (inteiro. em posta. em filé. etc.)  ;Empanado(a)/à milanesa;155.84;24.62;4.14;3.39;0.14
+1075;Peixe de mar (inteiro. em posta. em filé. etc.)  ;Molho vermelho;98.4;19.59;1.26;1.08;0.3
+1076;Peixe de mar (inteiro. em posta. em filé. etc.)  ;Molho branco;140.05;20.81;5.11;1.47;0.07
+1077;Peixe de mar (inteiro. em posta. em filé. etc.)  ;Ensopado;139.66;24.16;4.09;0;0
+1078;Peixe de mar salgado (inteiro. em posta. em filé. etc.) ;Cozido(a);117;24.16;1.53;0;0
+1079;Peixe de mar salgado (inteiro. em posta. em filé. etc.) ;Grelhado(a)/brasa/churrasco;117;24.16;1.53;0;0
+1080;Peixe de mar salgado (inteiro. em posta. em filé. etc.) ;Assado(a);117;24.16;1.53;0;0
+1081;Peixe de mar salgado (inteiro. em posta. em filé. etc.) ;Frito(a);139.66;24.16;4.09;0;0
+1082;Peixe de mar salgado (inteiro. em posta. em filé. etc.) ;Empanado(a)/à milanesa;155.84;24.62;4.14;3.39;0.14
+1083;Peixe de mar salgado (inteiro. em posta. em filé. etc.) ;Molho branco;140.05;20.81;5.11;1.47;0.07
+1084;Peixe de mar salgado (inteiro. em posta. em filé. etc.) ;Ensopado;139.66;24.16;4.09;0;0
+1085;Camarão;Cru(a);99;20.91;1.08;0;0
+1086;Camarão ;Cozido(a);99;20.91;1.08;0;0
+1087;Camarão;Grelhado(a)/brasa/churrasco;99;20.91;1.08;0;0
+1088;Camarão;Assado(a);99;20.91;1.08;0;0
+1089;Camarão;Frito(a);121.66;20.91;3.64;0;0
+1090;Camarão;Empanado(a)/à milanesa;137.84;21.37;3.69;3.39;0.14
+1091;Camarão;Refogado(a);121.66;20.91;3.64;0;0
+1092;Camarão;Molho vermelho;84;16.99;0.9;1.08;0.3
+1093;Camarão;Molho branco;125.65;18.21;4.75;1.47;0.07
+1094;Camarão;Ao alho e óleo;121.66;20.91;3.64;0;0
+1095;Camarão;Ensopado;121.66;20.91;3.64;0;0
+1096;Camarão;Não se aplica;99;20.91;1.08;0;0
+1097;Siri;Cozido(a);102;20.2;1.77;0;0
+1098;Siri;Empanado(a)/à milanesa;140.84;20.66;4.38;3.39;0.14
+1099;Siri;Refogado(a);124.66;20.2;4.33;0;0
+1100;Bau (siri);Cozido(a);102;20.2;1.77;0;0
+1101;Goiá;Cru(a);102;20.2;1.77;0;0
+1102;Caranguejo;Cozido(a);102;20.2;1.77;0;0
+1103;Caranguejo;Assado(a);102;20.2;1.77;0;0
+1104;Caranguejo;Ao vinagrete;102;20.2;1.77;0;0
+1105;Guaiamu;Cozido(a);102;20.2;1.77;0;0
+1106;Marisco;Cozido(a);148;25.55;1.95;5.13;0
+1107;Marisco;Frito(a);170.66;25.55;4.51;5.13;0
+1108;Marisco;Molho vermelho;123.2;20.7;1.6;5.18;0.3
+1109;Marisco;Não se aplica;148;25.55;1.95;5.13;0
+1110;Ostra;Cozido(a);137;14.1;4.91;7.82;0
+1111;Lula;Empanado(a)/à milanesa;143.84;18.32;4.19;6.92;0.14
+1112;Sururu;Cozido(a);148;25.55;1.95;5.13;0
+1113;Sururu;Ensopado;170.66;25.55;4.51;5.13;0
+1114;Bacalhau;Cozido(a);117;24.16;1.53;0;0
+1115;Bacalhau;Assado(a);117;24.16;1.53;0;0
+1116;Bacalhau;Frito(a);139.66;24.16;4.09;0;0
+1117;Bacalhau;Empanado(a)/à milanesa;155.84;24.62;4.14;3.39;0.14
+1118;Bacalhau;Refogado(a);139.66;24.16;4.09;0;0
+1119;Bacalhau;Molho vermelho;98.4;19.59;1.26;1.08;0.3
+1120;Bacalhau;Ensopado;139.66;24.16;4.09;0;0
+1121;Bacalhau;Não se aplica;117;24.16;1.53;0;0
+1122;Ovas de peixe (qualquer espécie);Assado(a);204;28.62;8.23;1.92;0
+1123;Ovas de peixe (qualquer espécie);Frito(a);226.66;28.62;10.79;1.92;0
+1124;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Cru(a);117;24.16;1.53;0;0
+1125;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Cozido(a);117;24.16;1.53;0;0
+1126;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Grelhado(a)/brasa/churrasco;117;24.16;1.53;0;0
+1127;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Assado(a);117;24.16;1.53;0;0
+1128;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Frito(a);139.66;24.16;4.09;0;0
+1129;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Empanado(a)/à milanesa;155.84;24.62;4.14;3.39;0.14
+1130;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Refogado(a);139.66;24.16;4.09;0;0
+1131;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Molho vermelho;98.4;19.59;1.26;1.08;0.3
+1132;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Molho branco;126.19;20.11;3.71;1.85;0.04
+1133;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Ensopado;139.66;24.16;4.09;0;0
+1134;Peixe de água doce (inteiro. em posta. em filé. etc.) ;Não se aplica;117;24.16;1.53;0;0
+1135;Peixe de água doce salgado (inteiro. em posta. em filé. etc.) ;Cozido(a);117;24.16;1.53;0;0
+1136;Peixe de água doce salgado (inteiro. em posta. em filé. etc.) ;Grelhado(a)/brasa/churrasco;117;24.16;1.53;0;0
+1137;Peixe de água doce salgado (inteiro. em posta. em filé. etc.) ;Assado(a);117;24.16;1.53;0;0
+1138;Peixe de água doce salgado (inteiro. em posta. em filé. etc.) ;Frito(a);139.66;24.16;4.09;0;0
+1139;Peixe de água doce salgado (inteiro. em posta. em filé. etc.) ;Empanado(a)/à milanesa;155.84;24.62;4.14;3.39;0.14
+1140;Peixe de água doce salgado (inteiro. em posta. em filé. etc.) ;Molho vermelho;98.4;19.59;1.26;1.08;0.3
+1141;Peixe de água doce salgado (inteiro. em posta. em filé. etc.) ;Ensopado;139.66;24.16;4.09;0;0
+1142;Tracajá;Cozido(a);117;24.16;1.53;0;0
+1143;Peixe não especificado (inteiro. em posta. em filé. etc.);Cru(a);117;24.16;1.53;0;0
+1144;Peixe não especificado (inteiro. em posta. em filé. etc.);Cozido(a);117;24.16;1.53;0;0
+1145;Peixe não especificado (inteiro. em posta. em filé. etc.);Grelhado(a)/brasa/churrasco;117;24.16;1.53;0;0
+1146;Peixe não especificado (inteiro. em posta. em filé. etc.);Assado(a);117;24.16;1.53;0;0
+1147;Peixe não especificado (inteiro. em posta. em filé. etc.);Frito(a);139.66;24.16;4.09;0;0
+1148;Peixe não especificado (inteiro. em posta. em filé. etc.);Empanado(a)/à milanesa;155.84;24.62;4.14;3.39;0.14
+1149;Peixe não especificado (inteiro. em posta. em filé. etc.);Refogado(a);139.66;24.16;4.09;0;0
+1150;Peixe não especificado (inteiro. em posta. em filé. etc.);Molho vermelho;98.4;19.59;1.26;1.08;0.3
+1151;Peixe não especificado (inteiro. em posta. em filé. etc.);Molho branco;140.05;20.81;5.11;1.47;0.07
+1152;Peixe não especificado (inteiro. em posta. em filé. etc.);Ensopado;139.66;24.16;4.09;0;0
+1153;Peixe não especificado salgado (inteiro. em posta. em filé. etc.);Cozido(a);117;24.16;1.53;0;0
+1154;Peixe não especificado salgado (inteiro. em posta. em filé. etc.);Grelhado(a)/brasa/churrasco;117;24.16;1.53;0;0
+1155;Peixe não especificado salgado (inteiro. em posta. em filé. etc.);Assado(a);117;24.16;1.53;0;0
+1156;Peixe não especificado salgado (inteiro. em posta. em filé. etc.);Frito(a);139.66;24.16;4.09;0;0
+1157;Peixe não especificado salgado (inteiro. em posta. em filé. etc.);Empanado(a)/à milanesa;155.84;24.62;4.14;3.39;0.14
+1158;Azeitona;Não se aplica;145;1.03;15.32;3.84;3.3
+1159;Ervilha em conserva;Não se aplica;69;4.42;0.35;12.58;4.1
+1160;Petitpois;Não se aplica;69;4.42;0.35;12.58;4.1
+1161;Milho verde em conserva;Não se aplica;81;2.64;0.93;18.8;1.9
+1162;Palmito em conserva;Não se aplica;28;2.52;0.62;4.62;2.4
+1163;Cogumelo em conserva;Não se aplica;50.74;1.87;3.2;5.09;2.4
+1164;Champignon em conserva;Não se aplica;50.74;1.87;3.2;5.09;2.4
+1165;Aspargo em conserva;Não se aplica;19;2.14;0.65;2.46;1.6
+1166;Repolho em conserva;Não se aplica;19;0.91;0.14;4.28;2.9
+1167;Chucrute;Não se aplica;19;0.91;0.14;4.28;2.9
+1168;Legume não especificado em conserva;Não se aplica;47;2.53;0.26;9.06;2.8
+1169;Creme de cebola (sopa desidratada);Não se aplica;46.31;0.82;2.47;5.34;0.2
+1170;Creme de legumes (sopa desidratada);Não se aplica;10.55;0.48;0.02;2.15;0.23
+1171;Yakissoba ;Não se aplica;527;8.38;30.76;57.54;3.9
+1172;Milho verde com ervilha em conserva;Cru(a);79.52;3.83;0.47;16.81;2.96
+1173;Milho verde com ervilha em conserva;Cozido(a);79.52;3.83;0.47;16.81;2.96
+1174;Milho verde com ervilha em conserva;Frito(a);79.52;3.83;0.47;16.81;2.96
+1175;Milho verde com ervilha em conserva;Não se aplica;79.52;3.83;0.47;16.81;2.96
+1176;Feijoada;Não se aplica;181.59;11.11;7.9;16.92;5.68
+1177;Feijão branco com dobradinha em conserva;Não se aplica;136.38;10.68;5.91;10.2;2.33
+1178;Cozido;Não se aplica;87.33;5.61;3.79;7.93;1.74
+1179;Pasta de carne em conserva;Não se aplica;245.65;9.89;16.89;14.1;0.17
+1180;Pasta de presunto em conserva;Não se aplica;276.46;17.86;21.43;1.8;0
+1181;Pasta de galinha em conserva;Não se aplica;214.36;16.39;14.53;3.66;0.25
+1182;Carne bovina em conserva;Não se aplica;242;24.22;15.42;0;0
+1183;Almôndega ;Não se aplica;214.85;20.64;9.2;11;0.76
+1184;Kitute bovino;Não se aplica;242;24.22;15.42;0;0
+1185;Almôndega ao molho em conserva;Não se aplica;203.52;16.16;10.72;9.7;0.91
+1186;Kitute suíno;Não se aplica;178;22.62;9.02;0;0
+1187;Presuntada;Não se aplica;178;22.62;9.02;0;0
+1188;Fiambre ;Cru(a);178;22.62;9.02;0;0
+1189;Fiambre ;Cozido(a);178;22.62;9.02;0;0
+1190;Fiambre ;Assado(a);178;22.62;9.02;0;0
+1191;Fiambre ;Frito(a);178;22.62;9.02;0;0
+1192;Salsicha em conserva;Não se aplica;269.08;8.3;25.81;0.27;0.01
+1193;Sardinha em conserva;Não se aplica;208;24.62;11.45;0;0
+1194;Atum em conserva;Não se aplica;198;29.13;8.21;0;0
+1195;Pepino em conserva;Não se aplica;12;0.6;0.14;2.59;1.1
+1196;Pasta de peixe em conserva;Não se aplica;198;29.13;8.21;0;0
+1197;Picles;Não se aplica;12;0.6;0.14;2.59;1.1
+1198;Nabo em conserva;Não se aplica;43.26;0.87;0.19;9.94;1.59
+1199;Strogonoff ;Não se aplica;147.68;12.83;9.11;4.13;0.44
+1200;Salmão em conserva;Não se aplica;136;23.08;4.83;0;0
+1201;Creme de cebola (sopa desidratada) light;Não se aplica;46.31;0.82;2.47;5.34;0.2
+1202;Creme de legumes (sopa desidratada) light;Não se aplica;10.55;0.48;0.02;2.15;0.23
+1203;Yakissoba (sopa de legumes desidratada) light;Não se aplica;80.04;3.01;0.47;15.61;0.97
+1204;Atum em conserva light;Não se aplica;116;25.51;0.82;0;0
+1205;Frango inteiro;Cru(a);239;27.3;13.6;0;0
+1206;Frango inteiro;Cozido(a);239;27.3;13.6;0;0
+1207;Frango inteiro;Grelhado(a)/brasa/churrasco;239;27.3;13.6;0;0
+1208;Frango inteiro;Assado(a);239;27.3;13.6;0;0
+1209;Frango inteiro;Frito(a);261.66;27.3;16.16;0;0
+1210;Frango inteiro;Empanado(a)/à milanesa;277.84;27.76;16.21;3.39;0.14
+1211;Frango inteiro;Refogado(a);261.66;27.3;16.16;0;0
+1212;Frango inteiro;Molho vermelho;196;22.1;10.92;1.08;0.3
+1213;Frango inteiro;Ensopado;261.66;27.3;16.16;0;0
+1214;Parte de galinha ou frango não especificada;Cru(a);239;27.3;13.6;0;0
+1215;Parte de galinha ou frango não especificada;Cozido(a);239;27.3;13.6;0;0
+1216;Parte de galinha ou frango não especificada;Grelhado(a)/brasa/churrasco;239;27.3;13.6;0;0
+1217;Parte de galinha ou frango não especificada;Assado(a);239;27.3;13.6;0;0
+1218;Parte de galinha ou frango não especificada;Frito(a);261.66;27.3;16.16;0;0
+1219;Parte de galinha ou frango não especificada;Empanado(a)/à milanesa;277.84;27.76;16.21;3.39;0.14
+1220;Parte de galinha ou frango não especificada;Refogado(a);261.66;27.3;16.16;0;0
+1221;Parte de galinha ou frango não especificada;Molho vermelho;196;22.1;10.92;1.08;0.3
+1222;Parte de galinha ou frango não especificada;Ensopado;261.66;27.3;16.16;0;0
+1223;Parte de galinha ou frango não especificada;Não se aplica;239;27.3;13.6;0;0
+1224;Frango em pedaços;Cru(a);239;27.3;13.6;0;0
+1225;Frango em pedaços;Cozido(a);239;27.3;13.6;0;0
+1226;Frango em pedaços;Grelhado(a)/brasa/churrasco;239;27.3;13.6;0;0
+1227;Frango em pedaços;Assado(a);239;27.3;13.6;0;0
+1228;Frango em pedaços;Frito(a);261.66;27.3;16.16;0;0
+1229;Frango em pedaços;Empanado(a)/à milanesa;277.84;27.76;16.21;3.39;0.14
+1230;Frango em pedaços;Refogado(a);261.66;27.3;16.16;0;0
+1231;Frango em pedaços;Molho vermelho;196;22.1;10.92;1.08;0.3
+1232;Frango em pedaços;Molho branco;226.79;22.6;13.71;1.85;0.04
+1233;Frango em pedaços;Ao alho e óleo;261.66;27.3;16.16;0;0
+1234;Frango em pedaços;Com manteiga/óleo;192.14;30.93;6.68;0;0
+1235;Frango em pedaços;Ensopado;261.66;27.3;16.16;0;0
+1236;Frango em pedaços;Sopa;31.47;1.61;1.06;3.64;0.13
+1237;Frango em pedaços;Não se aplica;239;27.3;13.6;0;0
+1238;Galinha em pedaços ;Cozido(a);239;27.3;13.6;0;0
+1239;Galinha em pedaços ;Grelhado(a)/brasa/churrasco;239;27.3;13.6;0;0
+1240;Galinha em pedaços ;Assado(a);239;27.3;13.6;0;0
+1241;Galinha em pedaços ;Frito(a);261.66;27.3;16.16;0;0
+1242;Galinha em pedaços ;Empanado(a)/à milanesa;277.84;27.76;16.21;3.39;0.14
+1243;Galinha em pedaços ;Refogado(a);261.66;27.3;16.16;0;0
+1244;Galinha em pedaços ;Molho vermelho;196;22.1;10.92;1.08;0.3
+1245;Galinha em pedaços ;Molho branco;226.79;22.6;13.71;1.85;0.04
+1246;Galinha em pedaços ;Ensopado;261.66;27.3;16.16;0;0
+1247;Carne de galinha ;Cru(a);239;27.3;13.6;0;0
+1248;Carne de galinha ;Cozido(a);239;27.3;13.6;0;0
+1249;Carne de galinha ;Grelhado(a)/brasa/churrasco;239;27.3;13.6;0;0
+1250;Carne de galinha ;Assado(a);239;27.3;13.6;0;0
+1251;Carne de galinha ;Frito(a);261.66;27.3;16.16;0;0
+1252;Carne de galinha ;Empanado(a)/à milanesa;277.84;27.76;16.21;3.39;0.14
+1253;Carne de galinha ;Refogado(a);239;27.3;13.6;0;0
+1254;Carne de galinha ;Molho vermelho;261.66;27.3;16.16;0;0
+1255;Carne de galinha ;Molho branco;226.79;22.6;13.71;1.85;0.04
+1256;Carne de galinha ;Ensopado;261.66;27.3;16.16;0;0
+1257;Carne de galinha ;Sopa;31.47;1.61;1.06;3.64;0.13
+1258;Carne de galinha ;Não se aplica;239;27.3;13.6;0;0
+1259;Peito de galinha ou frango;Cru(a);173;30.91;4.51;0;0
+1260;Peito de galinha ou frango;Cozido(a);173;30.91;4.51;0;0
+1261;Peito de galinha ou frango;Grelhado(a)/brasa/churrasco;173;30.91;4.51;0;0
+1262;Peito de galinha ou frango;Assado(a);173;30.91;4.51;0;0
+1263;Peito de galinha ou frango;Frito(a);195.66;30.91;7.07;0;0
+1264;Peito de galinha ou frango;Empanado(a)/à milanesa;211.84;31.37;7.12;3.39;0.14
+1265;Peito de galinha ou frango;Refogado(a);195.66;30.91;7.07;0;0
+1266;Peito de galinha ou frango;Molho vermelho;143.2;24.99;3.64;1.08;0.3
+1267;Peito de galinha ou frango;Molho branco;170.99;25.51;6.1;1.85;0.04
+1268;Peito de galinha ou frango;Ensopado;195.66;30.91;7.07;0;0
+1269;Peito de galinha ou frango;Sopa;31.47;1.61;1.06;3.64;0.13
+1270;Peito de galinha ou frango;Não se aplica;173;30.91;4.51;0;0
+1271;Filé de frango;Cru(a);173;30.91;4.51;0;0
+1272;Filé de frango;Cozido(a);173;30.91;4.51;0;0
+1273;Filé de frango;Grelhado(a)/brasa/churrasco;173;30.91;4.51;0;0
+1274;Filé de frango;Assado(a);173;30.91;4.51;0;0
+1275;Filé de frango;Frito(a);195.66;30.91;7.07;0;0
+1276;Filé de frango;Empanado(a)/à milanesa;211.84;31.37;7.12;3.39;0.14
+1277;Filé de frango;Refogado(a);195.66;30.91;7.07;0;0
+1278;Filé de frango;Molho vermelho;143.2;24.99;3.64;1.08;0.3
+1279;Filé de frango;Molho branco;170.99;25.51;6.1;1.85;0.04
+1280;Filé de frango;Ao alho e óleo;195.66;30.91;7.07;0;0
+1281;Filé de frango;Ensopado;195.66;30.91;7.07;0;0
+1282;Filé de frango;Não se aplica;173;30.91;4.51;0;0
+1283;Carcaça de galinha ou frango;Cozido(a);173;30.91;4.51;0;0
+1284;Carcaça de galinha ou frango;Assado(a);173;30.91;4.51;0;0
+1285;Carcaça de galinha ou frango;Frito(a);195.66;30.91;7.07;0;0
+1286;Carcaça de galinha ou frango;Refogado(a);195.66;30.91;7.07;0;0
+1287;Carcaça de galinha ou frango;Ensopado;195.66;30.91;7.07;0;0
+1288;Asa de galinha ou frango;Cru(a);290;26.86;19.46;0;0
+1289;Asa de galinha ou frango;Cozido(a);290;26.86;19.46;0;0
+1290;Asa de galinha ou frango;Grelhado(a)/brasa/churrasco;290;26.86;19.46;0;0
+1291;Asa de galinha ou frango;Assado(a);290;26.86;19.46;0;0
+1292;Asa de galinha ou frango;Frito(a);312.66;26.86;22.02;0;0
+1293;Asa de galinha ou frango;Empanado(a)/à milanesa;328.84;27.32;22.07;3.39;0.14
+1294;Asa de galinha ou frango;Refogado(a);312.66;26.86;22.02;0;0
+1295;Asa de galinha ou frango;Molho vermelho;236.8;21.75;15.6;1.08;0.3
+1296;Asa de galinha ou frango;Ensopado;312.66;26.86;22.02;0;0
+1297;Drumete de galinha ou frango;Cozido(a);213;27.73;10.5;0;0
+1298;Drumete de galinha ou frango;Grelhado(a)/brasa/churrasco;213;27.73;10.5;0;0
+1299;Drumete de galinha ou frango;Assado(a);213;27.73;10.5;0;0
+1300;Drumete de galinha ou frango;Frito(a);235.66;27.73;13.06;0;0
+1301;Drumete de galinha ou frango;Refogado(a);235.66;27.73;13.06;0;0
+1302;Drumete de galinha ou frango;Molho vermelho;175.2;22.45;8.44;1.08;0.3
+1303;Pescoço de galinha ou frango;Cozido(a);300;25.95;20.97;0;0
+1304;Pescoço de galinha ou frango;Assado(a);300;25.95;20.97;0;0
+1305;Pescoço de galinha ou frango;Frito(a);322.66;25.95;23.53;0;0
+1306;Pescoço de galinha ou frango;Refogado(a);322.66;25.95;23.53;0;0
+1307;Pescoço de galinha ou frango;Molho branco;272.59;21.54;19.27;1.85;0.04
+1308;Pé de galinha ou frango;Cozido(a);215;19.4;14.6;0.2;0
+1309;Pé de galinha ou frango;Grelhado(a)/brasa/churrasco;215;19.4;14.6;0.2;0
+1310;Pé de galinha ou frango;Assado(a);215;19.4;14.6;0.2;0
+1311;Pé de galinha ou frango;Frito(a);237.66;19.4;17.16;0.2;0
+1312;Pé de galinha ou frango;Refogado(a);237.66;19.4;17.16;0.2;0
+1313;Pé de galinha ou frango;Molho vermelho;176.8;15.78;11.72;1.24;0.3
+1314;Pé de galinha ou frango;Ensopado;237.66;19.4;17.16;0.2;0
+1315;Miúdo de galinha ou frango ;Cozido(a);167;24.46;6.51;0.87;0
+1316;Miúdo de galinha ou frango ;Assado(a);167;24.46;6.51;0.87;0
+1317;Miúdo de galinha ou frango ;Frito(a);189.66;24.46;9.07;0.87;0
+1318;Miúdo de galinha ou frango ;Molho vermelho;138.4;19.83;5.24;1.77;0.3
+1319;Miúdo de galinha ou frango ;Sopa;31.47;1.61;1.06;3.64;0.13
+1320;Moela de galinha ou frango;Cozido(a);146;30.39;2.68;0;0
+1321;Moela de galinha ou frango;Grelhado(a)/brasa/churrasco;146;30.39;2.68;0;0
+1322;Moela de galinha ou frango;Frito(a);168.66;30.39;5.24;0;0
+1323;Moela de galinha ou frango;Refogado(a);168.66;30.39;5.24;0;0
+1324;Moela de galinha ou frango;Molho vermelho;121.6;24.58;2.18;1.08;0.3
+1325;Moela de galinha ou frango;Molho branco;149.39;25.09;4.63;1.85;0.04
+1326;Moela de galinha ou frango;Ensopado;168.66;30.39;5.24;0;0
+1327;Moela de galinha ou frango;Sopa;31.47;1.61;1.06;3.64;0.13
+1328;Coração de frango;Cozido(a);185;26.41;7.92;0.1;0
+1329;Coração de frango;Grelhado(a)/brasa/churrasco;185;26.41;7.92;0.1;0
+1330;Coração de frango;Assado(a);185;26.41;7.92;0.1;0
+1331;Coração de frango;Frito(a);207.66;26.41;10.48;0.1;0
+1332;Coração de frango;Ensopado;185;26.41;7.92;0.1;0
+1333;Fígado de galinha ou frango;Cozido(a);167;24.46;6.51;0.87;0
+1334;Fígado de galinha ou frango;Assado(a);167;24.46;6.51;0.87;0
+1335;Fígado de galinha ou frango;Frito(a);189.66;24.46;9.07;0.87;0
+1336;Canja ;Não se aplica;31.47;1.61;1.06;3.64;0.13
+1337;Peru em pedaço não especificado;Cozido(a);207;26.94;10.24;0;0
+1338;Peru em pedaço não especificado;Assado(a);207;26.94;10.24;0;0
+1339;Peru em pedaço não especificado;Frito(a);229.66;26.94;12.8;0;0
+1340;Peru em pedaço não especificado;Ensopado;229.66;26.94;12.8;0;0
+1341;Peito de peru;Cru(a);140;30.19;1.18;0;0
+1342;Peito de peru;Cozido(a);140;30.19;1.18;0;0
+1343;Peito de peru;Grelhado(a)/brasa/churrasco;140;30.19;1.18;0;0
+1344;Peito de peru;Assado(a);140;30.19;1.18;0;0
+1345;Peito de peru;Frito(a);162.66;30.19;3.74;0;0
+1346;Peito de peru;Empanado(a)/à milanesa;162.66;30.19;3.74;0;0
+1347;Peito de peru;Não se aplica;140;30.19;1.18;0;0
+1348;Asa de peru;Cozido(a);229;27.38;12.43;0;0
+1349;Asa de peru;Assado(a);229;27.38;12.43;0;0
+1350;Chester ;Cozido(a);207;26.94;10.24;0;0
+1351;Chester ;Assado(a);207;26.94;10.24;0;0
+1352;Chester ;Não se aplica;207;26.94;10.24;0;0
+1353;Tender;Assado(a);178;22.62;9.02;0;0
+1354;Nambu ;Cozido(a);219;23.9;13;0;0
+1355;Nuggets de frango;Grelhado(a)/brasa/churrasco;273.02;16.24;15.63;15.91;0.64
+1356;Nuggets de frango;Assado(a);273.02;16.24;15.63;15.91;0.64
+1357;Nuggets de frango;Frito(a);273.02;16.24;15.63;15.91;0.64
+1358;Nuggets de frango;Empanado(a)/à milanesa;273.02;16.24;15.63;15.91;0.64
+1359;Nuggets de frango;Refogado(a);273.02;16.24;15.63;15.91;0.64
+1360;Steak de frango;Cozido(a);211.84;31.37;7.12;3.39;0.14
+1361;Steak de frango;Grelhado(a)/brasa/churrasco;211.84;31.37;7.12;3.39;0.14
+1362;Steak de frango;Assado(a);211.84;31.37;7.12;3.39;0.14
+1363;Steak de frango;Frito(a);211.84;31.37;7.12;3.39;0.14
+1364;Steak de frango;Empanado(a)/à milanesa;211.84;31.37;7.12;3.39;0.14
+1365;Steak de frango;Não se aplica;211.84;31.37;7.12;3.39;0.14
+1366;Codorna;Frito(a);269.66;32.4;14.66;0;0
+1367;Pé e asa de galinha ou frango;Cozido(a);290;26.86;19.46;0;0
+1368;Pé e asa de galinha ou frango;Assado(a);290;26.86;19.46;0;0
+1369;Pé e asa de galinha ou frango;Frito(a);312.66;26.86;22.02;0;0
+1370;Ovo de galinha;Cru(a);155;12.58;10.61;1.12;0
+1371;Ovo de galinha;Cozido(a);155;12.58;10.61;1.12;0
+1372;Ovo de galinha;Assado(a);155;12.58;10.61;1.12;0
+1373;Ovo de galinha;Frito(a);222.59;13.67;17.65;1.22;0
+1374;Ovo de galinha;Refogado(a);155;12.58;10.61;1.12;0
+1375;Ovo de galinha;Molho vermelho;155;12.58;10.61;1.12;0
+1376;Ovo de galinha;Ao alho e óleo;222.59;13.67;17.65;1.22;0
+1377;Ovo de galinha;Com manteiga/óleo;214.18;13.73;16.7;1.22;0
+1378;Ovo de galinha;Ao vinagrete;155;12.58;10.61;1.12;0
+1379;Ovo de galinha;Ensopado;155;12.58;10.61;1.12;0
+1380;Ovo de galinha;Mingau;155;12.58;10.61;1.12;0
+1381;Ovo de galinha;Não se aplica;155;12.58;10.61;1.12;0
+1382;Ovo de codorna;Cru(a);155;12.58;10.61;1.12;0
+1383;Ovo de codorna;Cozido(a);155;12.58;10.61;1.12;0
+1384;Ovo de codorna;Frito(a);222.59;13.67;17.65;1.22;0
+1385;Ovo de codorna;Ao vinagrete;155;12.58;10.61;1.12;0
+1386;Ovo de codorna;Não se aplica;155;12.58;10.61;1.12;0
+1387;Galinhad'angola abatida. congelada ou viva;Cozido(a);247;32.4;12.1;0;0
+1388;Galinhad'angola abatida. congelada ou viva;Assado(a);247;32.4;12.1;0;0
+1389;Capote ;Cozido(a);247;32.4;12.1;0;0
+1390;Capote ;Assado(a);247;32.4;12.1;0;0
+1391;Capote ;Frito(a);269.66;32.4;14.66;0;0
+1392;Mutum ;Cozido(a);239;27.3;13.6;0;0
+1393;Pato em pedaços;Cozido(a);201;26.14;9.97;0;0
+1394;Pato em pedaços;Ensopado;201;26.14;9.97;0;0
+1395;Peito de pato;Frito(a);223.66;26.14;12.53;0;0
+1396;Carne de pato ;Cozido(a);201;26.14;9.97;0;0
+1397;Carne de pato ;Assado(a);201;26.14;9.97;0;0
+1398;Carne de pato ;Frito(a);223.66;26.14;12.53;0;0
+1399;Peito de peru light;Cru(a);140;30.19;1.18;0;0
+1400;Peito de peru light;Cozido(a);140;30.19;1.18;0;0
+1401;Peito de peru light;Não se aplica;140;30.19;1.18;0;0
+1402;Frango inteiro orgânico;Cozido(a);239;27.3;13.6;0;0
+1403;Frango inteiro orgânico;Assado(a);239;27.3;13.6;0;0
+1404;Filé de frango orgânico;Cozido(a);173;30.91;4.51;0;0
+1405;Filé de frango orgânico;Grelhado(a)/brasa/churrasco;173;30.91;4.51;0;0
+1406;Filé de frango orgânico;Frito(a);195.66;30.91;7.07;0;0
+1407;Filé de frango orgânico;Empanado(a)/à milanesa;211.84;31.37;7.12;3.39;0.14
+1408;Leite de vaca integral;Não se aplica;60.03;3.22;3.25;4.52;0
+1409;Leite de vaca fresco ;Não se aplica;60.03;3.22;3.25;4.52;0
+1410;Leite de cabra;Não se aplica;69.03;3.56;4.14;4.45;0
+1411;Leite em pó integral;Não se aplica;480;25.76;26;36.16;0
+1412;Leite em pó desnatado;Não se aplica;358;35.1;0.72;52.19;0
+1413;Leite em pó ;Não se aplica;480;25.76;26;36.16;0
+1414;Leite condensado;Não se aplica;319.7;7.88;8.67;54.18;0
+1415;Leite beijinho;Não se aplica;319.7;7.88;8.67;54.18;0
+1416;Creme de leite;Não se aplica;292;2.17;30.91;2.96;0
+1417;Chantilly;Não se aplica;276.39;2.93;24.57;12.36;0
+1418;Iogurte de qualquer sabor;Não se aplica;98.69;3.46;3.47;14.62;2.13
+1419;Iogurte desnatado;Não se aplica;56;5.73;0.18;7.68;0
+1420;Iogurte natural;Não se aplica;61;3.47;3.25;4.66;0
+1421;Yakult de qualquer sabor;Não se aplica;69.3;3.03;0.07;14.46;0
+1422;Bebida láctea;Não se aplica;91.13;2.78;1.15;18.03;0.14
+1423;Leite fermentado;Não se aplica;50.23;3.32;1.98;4.7;0
+1424;Coalhada;Não se aplica;61;3.47;3.25;4.66;0
+1425;Manteiga com ou sem sal;Não se aplica;717;0.85;81.11;0.06;0
+1426;Manteiga de garrafa;Não se aplica;717;0.85;81.11;0.06;0
+1427;Margarina com ou sem sal;Não se aplica;719;0.9;80.5;0.9;0
+1428;Queijo prato;Não se aplica;302;25.96;20.03;3.83;0
+1429;Queijo colonial;Não se aplica;302;25.96;20.03;3.83;0
+1430;Queijo de colônia;Não se aplica;302;25.96;20.03;3.83;0
+1431;Queijo muçarela;Não se aplica;318;21.6;24.64;2.47;0
+1432;Muçarela;Não se aplica;318;21.6;24.64;2.47;0
+1433;Muçarela de búfala;Não se aplica;318;21.6;24.64;2.47;0
+1434;Queijo de búfala;Não se aplica;318;21.6;24.64;2.47;0
+1435;Queijo de reino;Não se aplica;356;24.94;27.44;2.22;0
+1436;Queijo de minas;Não se aplica;240;17.6;14.1;10.6;0
+1437;Queijo de manteiga;Não se aplica;318;21.6;24.64;2.47;0
+1438;Quechimia;Não se aplica;240;17.6;14.1;10.6;0
+1439;Queijo de coalho;Não se aplica;373;24.48;30.28;0.68;0
+1440;Queijo canastra;Não se aplica;240;17.6;14.1;10.6;0
+1441;Queijo ricota;Não se aplica;174;11.26;12.98;3.04;0
+1442;Leite de soja com sabor ;Não se aplica;64.05;3.68;1.65;9.07;1.1
+1443;Ades original;Não se aplica;54;3.27;1.75;6.28;0.6
+1444;Queijo ralado;Não se aplica;431;38.46;28.61;4.06;0
+1445;Queijo provolone;Não se aplica;351;25.58;26.62;2.14;0
+1446;Queijo polenguinho;Não se aplica;349;7.55;34.87;2.66;0
+1447;Requeijão;Não se aplica;231;10.6;17.6;7;0
+1448;Queijo cremoso;Não se aplica;231;10.6;17.6;7;0
+1449;Queijo não especificado;Não se aplica;375;22.15;31.25;1.6;0
+1450;Leite com sabor;Não se aplica;83.32;3.18;3.4;10.38;0.8
+1451;Leite achocolatado;Não se aplica;83.32;3.18;3.4;10.38;0.8
+1452;Leite aRomãtizado;Não se aplica;83.32;3.18;3.4;10.38;0.8
+1453;Bebida achocolatada;Não se aplica;83.32;3.18;3.4;10.38;0.8
+1454;Nata;Não se aplica;195;2.7;19.31;3.66;0
+1455;Queijo gorgonzola;Não se aplica;353;21.4;28.74;2.34;0
+1456;Tofu;Não se aplica;61;6.55;3.69;1.8;0.2
+1457;Leite de soja em pó;Não se aplica;408.33;32.85;13.22;42.13;9.18
+1458;Leite de vaca desnatado;Não se aplica;34.15;3.39;0.08;4.98;0
+1459;Leite de vaca semidesnatado;Não se aplica;42;3.37;0.97;4.99;0
+1460;Leite não especificado pasteurizado;Não se aplica;60.03;3.22;3.25;4.52;0
+1461;Iogurte de qualquer sabor light;Não se aplica;102;4.37;1.08;19.05;0.3
+1462;Iogurte de qualquer sabor diet;Não se aplica;51.35;3.11;2.65;3.88;0.08
+1463;Margarina light;Não se aplica;253.69;0.08;28.52;0.27;0
+1464;Leite de vaca integral orgânico;Não se aplica;60.03;3.22;3.25;4.52;0
+1465;Leite de vaca fresco orgânico;Não se aplica;60.03;3.22;3.25;4.52;0
+1466;Leite semidesnatado de vaca orgânico;Não se aplica;42;3.37;0.97;4.99;0
+1467;Creme de leite orgânico;Não se aplica;292;2.17;30.91;2.96;0
+1468;Iogurte de qualquer sabor orgânico;Não se aplica;98.69;3.46;3.47;14.62;2.13
+1469;Iogurte de qualquer sabor desnatado orgânico;Não se aplica;95;4.4;0.2;19;0
+1470;Iogurte natural de qualquer sabor orgânico;Não se aplica;61;3.47;3.25;4.66;0
+1471;Muçarela light;Não se aplica;302;25.96;20.03;3.83;0
+1472;Queijo muçarela light;Não se aplica;302;25.96;20.03;3.83;0
+1473;Leite de soja com sabor light;Não se aplica;53.21;2.56;1.03;8.62;0.69
+1474;Ades light;Não se aplica;39.37;1.99;0.82;6.18;0.55
+1475;Creme de leite light;Não se aplica;59;2.6;1.4;9;0
+1476;Queijo prato light;Não se aplica;297.3;24.49;21.36;1.22;0
+1477;Queijo de minas light;Não se aplica;90;13.74;1.93;3.63;0
+1478;Queijo de coalho light;Não se aplica;297.3;24.49;21.36;1.22;0
+1479;Queijo ricota light;Não se aplica;92.69;14.56;0.29;7.08;0
+1480;Queijo ralado light;Não se aplica;265;20;20;1.37;0
+1481;Queijo polenguinho light;Não se aplica;231;10.6;17.6;7;0
+1482;Requeijão light;Não se aplica;231;10.6;17.6;7;0
+1483;Queijo não especificado light;Não se aplica;90;13.74;1.93;3.63;0
+1484;Leite achocolatado light;Não se aplica;63;3.24;1;10.44;0.5
+1485;Bebida achocolatada light;Não se aplica;63;3.24;1;10.44;0.5
+1486;Leite com sabor diet;Não se aplica;73.29;3.48;3.51;7.09;0.39
+1487;Leite achocolatado diet;Não se aplica;73.29;3.48;3.51;7.09;0.39
+1488;Bebida achocolatada diet;Não se aplica;73.29;3.48;3.51;7.09;0.39
+1489;Leite de soja em pó light;Não se aplica;379.58;32.94;2.8;59.92;2.4
+1490;Leite em pó com sabor;Não se aplica;405;3.3;3.1;90.9;4.8
+1491;Manteiga com ou sem sal light;Não se aplica;347.32;0.41;39.29;0.03;0
+1492;Queijo de minas frescal orgânico;Não se aplica;240;17.6;14.1;10.6;0
+1493;Queijo de coalho frescal orgânico;Não se aplica;373;24.48;30.28;0.68;0
+1494;Pão de hambúrguer;Não se aplica;279;9.5;4.33;49.45;2.1
+1495;Pão de sal;Não se aplica;300;8;3.1;58.6;2.3
+1496;Pão doce;Não se aplica;355.23;5.15;13.08;55.83;2.02
+1497;Chineque;Não se aplica;355.23;5.15;13.08;55.83;2.02
+1498;Chineque com farofa;Não se aplica;355.23;5.15;13.08;55.83;2.02
+1499;Pão de mel;Não se aplica;508.36;4.46;18.34;85.04;1.85
+1500;Panetone;Não se aplica;355.95;7.45;10.43;58.03;2.14
+1501;Bisnaguinha;Não se aplica;310;10.86;6.47;52.04;2
+1502;Croissant;Não se aplica;455.16;8.04;26.26;46.84;1.75
+1503;Pão de forma industrializado de qualquer marca;Não se aplica;266;7.64;3.29;50.61;2.4
+1504;Pão de queijo;Não se aplica;363;5.1;24.6;34.2;0.6
+1505;Pão de milho;Não se aplica;316.62;7.2;10.43;47.96;4.38
+1506;Pão integral;Não se aplica;247;12.95;3.35;41.29;6.71
+1507;Pão não especificado;Não se aplica;300;8;3.1;58.6;2.3
+1508;Torrada de qualquer pão;Não se aplica;377;10.5;3.3;74.6;3.4
+1509;Rosca doce;Não se aplica;422.97;4.54;20.61;55.53;1.07
+1510;Rosquinha doce;Não se aplica;443;8.1;12;75.2;2.1
+1511;Rosca salgada;Não se aplica;245.75;12.83;9.85;25.8;1.18
+1512;Rosquinha salgada;Não se aplica;432;10.1;14.4;68.7;2.5
+1513;Biscoito salgado;Não se aplica;432;10.1;14.4;68.7;2.5
+1514;Presuntinho biscoito;Não se aplica;508.99;8.88;25.4;60.74;2.55
+1515;Biscoito de polvilho;Não se aplica;436.72;4.46;29.08;38.37;0
+1516;Bolacha salgada;Não se aplica;432;10.1;14.4;68.7;2.5
+1517;Chips (salgadinhos);Não se aplica;558.86;5.08;35.25;55.41;2.76
+1518;Baconzitos;Não se aplica;508.99;8.88;25.4;60.74;2.55
+1519;Biscoito salgado integral;Não se aplica;412.43;11.49;16.07;60.85;10.23
+1520;Biscoito doce;Não se aplica;443;8.1;12;75.2;2.1
+1521;Cavaco chinês;Não se aplica;443;8.1;12;75.2;2.1
+1522;Sequilho;Não se aplica;443;8.1;12;75.2;2.1
+1523;Tareço;Não se aplica;443;8.1;12;75.2;2.1
+1524;Solda;Não se aplica;432;10.1;14.4;68.7;2.5
+1525;Brevidade;Não se aplica;371.22;3.18;14.61;57.71;1.06
+1526;Bolacha doce;Não se aplica;443;8.1;12;75.2;2.1
+1527;Maria maluca (bolacha doce);Não se aplica;443;8.1;12;75.2;2.1
+1528;Quebraquebra;Não se aplica;443;8.1;12;75.2;2.1
+1529;Rocambole;Não se aplica;339.26;6.32;26.93;18.55;0.54
+1530;Cuca de qualquer tipo;Não se aplica;355.23;5.15;13.08;55.83;2.02
+1531;Bolo de milho;Não se aplica;311;4.8;12.4;45.1;0.7
+1532;Amidomil (bolinho);Não se aplica;311;4.8;12.4;45.1;0.7
+1533;Angusor de milho;Não se aplica;311;4.8;12.4;45.1;0.7
+1534;Grustoli (bolinho doce);Não se aplica;421.37;5.55;19.81;55.7;1.21
+1535;Bolo de aipim;Não se aplica;324;4.4;12.7;47.9;0.7
+1536;Bolo de tapioca;Não se aplica;324;4.4;12.7;47.9;0.7
+1537;Bolo de macaxeira;Não se aplica;324;4.4;12.7;47.9;0.7
+1538;Bolo de goma;Não se aplica;324;4.4;12.7;47.9;0.7
+1539;Bolo de batatadoce;Não se aplica;324;4.4;12.7;47.9;0.7
+1540;Bolo de arroz;Não se aplica;324;4.4;12.7;47.9;0.7
+1541;Bolo de cará;Não se aplica;324;4.4;12.7;47.9;0.7
+1542;Tortas doces de qualquer sabor;Não se aplica;119.67;2.28;5.38;15.56;0.48
+1543;Tortas salgadas de qualquer sabor;Não se aplica;249.55;3.87;9.86;38.4;1.49
+1544;Sonho;Não se aplica;378.79;6.02;18.25;48.08;1.31
+1545;Filhos (bolinho de farinha de trigo e ovos);Não se aplica;421.37;5.55;19.81;55.7;1.21
+1546;Bolo de chocolate;Não se aplica;312.8;8.71;6;58.3;1.76
+1547;Brioche;Não se aplica;366.84;9.04;14.22;49.58;1.8
+1548;Bolo de laranja;Não se aplica;360.83;4.8;13.15;58.32;2.36
+1549;Bolo de coco;Não se aplica;317.24;6.33;8.7;54.19;1.2
+1550;Bolo de cenoura;Não se aplica;344.86;4.17;17.26;44.27;1.61
+1551;Bolo de trigo;Não se aplica;286.6;6.91;4.24;55.27;0.65
+1552;Broa;Não se aplica;392;9.8;18.3;47.1;1.7
+1553;Biscoito recheado;Não se aplica;472;6.4;19.6;70.5;3
+1554;Waffer (biscoito);Não se aplica;430.32;6.25;12.49;74.79;2.25
+1555;Alfajores (biscoito);Não se aplica;505.21;6.47;22.55;70.85;2.43
+1556;Bolacha recheada;Não se aplica;472;6.4;19.6;70.5;3
+1557;Rosca recheada;Não se aplica;620.2;5.57;26.28;98.06;3.22
+1558;Rosquinha recheada de qualquer sabor;Não se aplica;472;6.4;19.6;70.5;3
+1559;Biscoito não especificado;Não se aplica;432;10.1;14.4;68.7;2.5
+1560;Crepe;Não se aplica;203.18;13.96;12.46;8.27;0.66
+1561;Pão diet (de forma industrializado);Não se aplica;198;9.1;2.3;43.6;12
+1562;Pão light (de forma industrializado);Não se aplica;198;9.1;2.3;43.6;12
+1563;Pão de queijo light;Não se aplica;363;5.1;24.6;34.2;0.6
+1564;Pão integral light;Não se aplica;198;9.1;2.3;43.6;12
+1565;Tortas doces de qualquer sabor light;Não se aplica;121.84;2.29;5.4;16.06;0.5
+1566;Tortas doces de qualquer sabor diet;Não se aplica;99.17;2.25;5.3;10.66;0.37
+1567;Filhos (bolinho de farinha de trigo e ovos) light;Não se aplica;426.53;6.44;22.95;48.69;1.4
+1568;Filhos (bolinho de farinha de trigo e ovos) diet;Não se aplica;426.53;6.44;22.95;48.69;1.4
+1569;Bolo de chocolate light;Não se aplica;299.49;4.59;9.36;52.45;2
+1570;Bolo de chocolate diet;Não se aplica;299.49;4.59;9.36;52.45;2
+1571;Bolo de laranja light;Não se aplica;328.38;4.76;9.48;58.31;2.36
+1572;Bolo de coco diet;Não se aplica;299.49;4.59;9.36;52.45;2
+1573;Bolo de cenoura diet;Não se aplica;272.74;4.09;9.1;44.26;1.61
+1574;Biscoito recheado light;Não se aplica;432.96;5.88;13.24;77.8;4.24
+1575;Biscoito waffer light;Não se aplica;398.63;4.51;6.92;80.66;1.31
+1576;Waffer (biscoito) light;Não se aplica;398.63;4.51;6.92;80.66;1.31
+1577;Alfajores (biscoito) light;Não se aplica;432.96;5.88;13.24;77.8;4.24
+1578;Bolacha recheada light;Não se aplica;432.96;5.88;13.24;77.8;4.24
+1579;Biscoito recheado diet;Não se aplica;405.28;8.17;20.83;66.82;3.67
+1580;Rosquinha recheada de qualquer sabor diet;Não se aplica;405.28;8.17;20.83;66.82;3.67
+1581;Bolacha recheada diet;Não se aplica;405.28;8.17;20.83;66.82;3.67
+1582;Pão doce diet;Não se aplica;312.25;4.83;6.92;57.97;1.64
+1583;Pão de mel diet;Não se aplica;446.23;4.38;11.31;85.04;1.85
+1584;Panetone diet;Não se aplica;355.95;7.45;10.43;58.03;2.14
+1585;Biscoito salgado light;Não se aplica;452.56;9.67;13.79;72.45;3.45
+1586;Bolacha salgada light;Não se aplica;452.56;9.67;13.79;72.45;3.45
+1587;Chips (salgadinhos) light;Não se aplica;407.05;6.53;7.05;81.13;5.64
+1588;Biscoito doce light;Não se aplica;395.25;6.45;4.84;83.88;3.7
+1589;Bolacha doce light;Não se aplica;395.25;6.45;4.84;83.88;3.7
+1590;Biscoito doce diet;Não se aplica;453.92;6.22;21.89;65.74;2.95
+1591;Bolacha doce diet;Não se aplica;453.92;6.22;21.89;65.74;2.95
+1592;Bolo de banana;Não se aplica;300.05;3.93;9.07;52.14;1.66
+1593;Carneseca;Cozido(a);313;26.9;21.9;0;0
+1594;Carneseca;Grelhado(a)/brasa/churrasco;313;26.9;21.9;0;0
+1595;Carneseca;Assado(a);313;26.9;21.9;0;0
+1596;Carneseca;Frito(a);347;25.29;26.56;0;0
+1597;Carneseca;Refogado(a);347;25.29;26.56;0;0
+1598;Carneseca;Molho vermelho;255.2;21.78;17.56;1.08;0.3
+1599;Carneseca;Ensopado;347;25.29;26.56;0;0
+1600;Carne de charque;Cru(a);313;26.9;21.9;0;0
+1601;Carne de charque;Cozido(a);313;26.9;21.9;0;0
+1602;Carne de charque;Grelhado(a)/brasa/churrasco;313;26.9;21.9;0;0
+1603;Carne de charque;Assado(a);313;26.9;21.9;0;0
+1604;Carne de charque;Frito(a);347;25.29;26.56;0;0
+1605;Carne de charque;Refogado(a);347;25.29;26.56;0;0
+1606;Carne de charque;Molho vermelho;255.2;21.78;17.56;1.08;0.3
+1607;Carne de charque;Ensopado;347;25.29;26.56;0;0
+1608;Jabá;Cozido(a);313;26.9;21.9;0;0
+1609;Jabá;Frito(a);347;25.29;26.56;0;0
+1610;Jabá;Refogado(a);347;25.29;26.56;0;0
+1611;Jabá;Não se aplica;313;26.9;21.9;0;0
+1612;Carne de sol;Cru(a);313;26.9;21.9;0;0
+1613;Carne de sol;Cozido(a);313;26.9;21.9;0;0
+1614;Carne de sol;Grelhado(a)/brasa/churrasco;313;26.9;21.9;0;0
+1615;Carne de sol;Assado(a);313;26.9;21.9;0;0
+1616;Carne de sol;Frito(a);347;25.29;26.56;0;0
+1617;Carne de sol;Ensopado;347;25.29;26.56;0;0
+1618;Carne do sertão;Cozido(a);313;26.9;21.9;0;0
+1619;Carne do sertão;Assado(a);313;26.9;21.9;0;0
+1620;Carne do sertão;Frito(a);347;25.29;26.56;0;0
+1621;Hambúrguer de carne bovina;Cru(a);214;26.62;11.1;0;0
+1622;Hambúrguer de carne bovina;Cozido(a);214;26.62;11.1;0;0
+1623;Hambúrguer de carne bovina;Grelhado(a)/brasa/churrasco;214;26.62;11.1;0;0
+1624;Hambúrguer de carne bovina;Assado(a);214;26.62;11.1;0;0
+1625;Hambúrguer de carne bovina;Frito(a);236.66;26.62;13.66;0;0
+1626;Hambúrguer de carne bovina;Molho vermelho;176;21.56;8.92;1.08;0.3
+1627;Hambúrguer de carne bovina;Não se aplica;214;26.62;11.1;0;0
+1628;Copa de porco defumada;Não se aplica;248.66;20.53;17.76;0.42;0
+1629;Bacon;Não se aplica;541;37.04;41.78;1.43;0
+1630;Hambúrguer de frango;Cozido(a);206.14;16.19;9.71;12.64;0.61
+1631;Hambúrguer de frango;Grelhado(a)/brasa/churrasco;206.14;16.19;9.71;12.64;0.61
+1632;Hambúrguer de frango;Assado(a);206.14;16.19;9.71;12.64;0.61
+1633;Hambúrguer de frango;Frito(a);266.67;16.19;16.55;12.64;0.61
+1634;Hambúrguer de frango;Empanado(a)/à milanesa;266.67;16.19;16.55;12.64;0.61
+1635;Hambúrguer de frango;Não se aplica;206.14;16.19;9.71;12.64;0.61
+1636;Salsicha no varejo;Cru(a);321.05;9.72;29.51;3.61;0
+1637;Salsicha no varejo;Cozido(a);321.05;9.72;29.51;3.61;0
+1638;Salsicha no varejo;Grelhado(a)/brasa/churrasco;321.05;9.72;29.51;3.61;0
+1639;Salsicha no varejo;Assado(a);321.05;9.72;29.51;3.61;0
+1640;Salsicha no varejo;Frito(a);321.05;9.72;29.51;3.61;0
+1641;Salsicha no varejo;Refogado(a);321.05;9.72;29.51;3.61;0
+1642;Salsicha no varejo;Molho vermelho;289.43;8.56;26.1;4.74;0.04
+1643;Salsicha no varejo;Molho branco;321.6;11.3;29.04;3.24;0.3
+1644;Salsicha no varejo;Ao alho e óleo;321.05;9.72;29.51;3.61;0
+1645;Salsicha no varejo;Com manteiga/óleo;321.05;9.72;29.51;3.61;0
+1646;Salsicha no varejo;Ensopado;321.05;9.72;29.51;3.61;0
+1647;Salsicha no varejo;Não se aplica;321.05;9.72;29.51;3.61;0
+1648;Linguiça (suína. bovina. mista. etc.);Cru(a);396;13.8;36.25;2.7;0
+1649;Linguiça (suína. bovina. mista. etc.);Cozido(a);396;13.8;36.25;2.7;0
+1650;Linguiça (suína. bovina. mista. etc.);Grelhado(a)/brasa/churrasco;396;13.8;36.25;2.7;0
+1651;Linguiça (suína. bovina. mista. etc.);Assado(a);396;13.8;36.25;2.7;0
+1652;Linguiça (suína. bovina. mista. etc.);Frito(a);396;13.8;36.25;2.7;0
+1653;Linguiça (suína. bovina. mista. etc.);Empanado(a)/à milanesa;396;13.8;36.25;2.7;0
+1654;Linguiça (suína. bovina. mista. etc.);Refogado(a);396;13.8;36.25;2.7;0
+1655;Linguiça (suína. bovina. mista. etc.);Molho vermelho;321.6;11.3;29.04;3.24;0.3
+1656;Linguiça (suína. bovina. mista. etc.);Com manteiga/óleo;396;13.8;36.25;2.7;0
+1657;Linguiça (suína. bovina. mista. etc.);Ensopado;396;13.8;36.25;2.7;0
+1658;Linguiça (suína. bovina. mista. etc.);Não se aplica;396;13.8;36.25;2.7;0
+1659;Linguiça de frango;Cru(a);244;18.2;18.4;0;0
+1660;Linguiça de frango;Cozido(a);244;18.2;18.4;0;0
+1661;Linguiça de frango;Grelhado(a)/brasa/churrasco;244;18.2;18.4;0;0
+1662;Linguiça de frango;Assado(a);244;18.2;18.4;0;0
+1663;Linguiça de frango;Frito(a);245;18.3;18.5;0;0
+1664;Chouriço;Não se aplica;379;14.6;34.5;1.29;0
+1665;Morcela;Não se aplica;379;14.6;34.5;1.29;0
+1666;Morcilha;Cru(a);379;14.6;34.5;1.29;0
+1667;Morcilha;Cozido(a);379;14.6;34.5;1.29;0
+1668;Paio;Cozido(a);339;19.43;28.36;0;0
+1669;Mortadela;Não se aplica;307;11.1;27.7;3.2;0
+1670;Salame;Não se aplica;336;21.85;25.9;2.4;0
+1671;Salaminho;Não se aplica;336;21.85;25.9;2.4;0
+1672;Blanquet de peru;Não se aplica;126;17.5;4.84;2.04;0.2
+1673;Presunto ;Não se aplica;226;20.53;15.2;0.42;0
+1674;Hambúrguer de peru;Cozido(a);195.96;16.62;8.35;12.64;0.61
+1675;Hambúrguer de peru;Assado(a);195.96;16.62;8.35;12.64;0.61
+1676;Hambúrguer de peru;Empanado(a)/à milanesa;256.49;16.62;15.2;12.64;0.61
+1677;Hambúrguer não especificado;Cozido(a);214;26.62;11.1;0;0
+1678;Hambúrguer não especificado;Grelhado(a)/brasa/churrasco;214;26.62;11.1;0;0
+1679;Hambúrguer não especificado;Assado(a);214;26.62;11.1;0;0
+1680;Hambúrguer não especificado;Frito(a);236.66;26.62;13.66;0;0
+1681;Hambúrguer não especificado;Não se aplica;214;26.62;11.1;0;0
+1682;Apresuntado;Não se aplica;178;22.62;9.02;0;0
+1683;Pururuca de porco;Não se aplica;544;61.3;31.3;0;0
+1684;Pele de porco preparada (pururuca);Não se aplica;544;61.3;31.3;0;0
+1685;Patê (fígado. calabresa. frango. presunto. etc.);Não se aplica;326;14.1;28.5;2.2;0
+1686;Carne de aves defumada;Não se aplica;195.66;30.91;7.07;0;0
+1687;Carne salgada não especificada;Cozido(a);313;26.9;21.9;0;0
+1688;Carne salgada não especificada;Grelhado(a)/brasa/churrasco;313;26.9;21.9;0;0
+1689;Carne salgada não especificada;Assado(a);313;26.9;21.9;0;0
+1690;Carne salgada não especificada;Frito(a);347;25.29;26.56;0;0
+1691;Carne salgada não especificada;Refogado(a);347;25.29;26.56;0;0
+1692;Carne salgada não especificada;Molho vermelho;255.2;21.78;17.56;1.08;0.3
+1693;Carne salgada não especificada;Não se aplica;313;26.9;21.9;0;0
+1694;Mini chicken empanado;Cozido(a);273.02;16.24;15.63;15.91;0.64
+1695;Mini chicken empanado;Grelhado(a)/brasa/churrasco;273.02;16.24;15.63;15.91;0.64
+1696;Mini chicken empanado;Assado(a);273.02;16.24;15.63;15.91;0.64
+1697;Mini chicken empanado;Frito(a);273.02;16.24;15.63;15.91;0.64
+1698;Mini chicken empanado;Empanado(a)/à milanesa;273.02;16.24;15.63;15.91;0.64
+1699;Mortadela light;Não se aplica;211;13.06;16.06;3.45;0
+1700;Salsicha no varejo light;Frito(a);154;11;10;4.4;0
+1701;Salame light;Não se aplica;145.18;14.7;8.94;0.5;0
+1702;Blanquet de peru light;Não se aplica;124.12;14.99;3.57;7.11;0
+1703;Hambúrguer não especificado light;Não se aplica;190;27.03;8.26;0;0
+1704;Refrigerante de cola tradicional;Não se aplica;36.87;0.07;0.02;9.53;0
+1705;Cocacola tradicional;Não se aplica;36.87;0.07;0.02;9.53;0
+1706;Fanta laranja tradicional;Não se aplica;48;0;0;12.3;0
+1707;Sukita tradicional;Não se aplica;48;0;0;12.3;0
+1708;Refrigerante de guaraná tradicional;Não se aplica;39;0;0;10;0
+1709;Guaraná tradicional;Não se aplica;39;0;0;10;0
+1710;Sprit refrigerante tradicional;Não se aplica;40;0.05;0.02;10.14;0
+1711;Fanta uva tradicional;Não se aplica;48;0;0;12.3;0
+1712;Refrigerante de cola light;Não se aplica;2;0.11;0.03;0.29;0
+1713;Cocacola light;Não se aplica;2;0.11;0.03;0.29;0
+1714;Refrigerante de cola diet;Não se aplica;2;0.11;0.03;0.29;0
+1715;Minuano tradicional;Não se aplica;40;0.05;0.02;10.14;0
+1716;Mate tradicional;Não se aplica;2.8;0.25;0;2.31;1.86
+1717;Bidu tradicional;Não se aplica;39;0;0;10;0
+1718;Fanta laranja light;Não se aplica;0;0.1;0;0;0
+1719;Refrigerante de guaraná light;Não se aplica;0;0;0;0;0
+1720;Guaraná light;Não se aplica;0;0;0;0;0
+1721;Tubaína tradicional;Não se aplica;39;0;0;10;0
+1722;Tubaína light;Não se aplica;2;0.11;0.03;0.29;0
+1723;Caldo de cana;Não se aplica;73.58;0;0.05;19.97;0
+1724;Garapá;Não se aplica;73.58;0;0.05;19.97;0
+1725;Água de coco;Não se aplica;19.28;0.73;0.2;3.76;1.12
+1726;Qsuco;Não se aplica;15.28;0;0;3.91;0
+1727;Qrefresko;Não se aplica;15.28;0;0;3.91;0
+1728;Nescafé;Não se aplica;241;12.2;0.5;75.4;0
+1729;Ervamate;Não se aplica;2.8;0.25;0;2.31;1.86
+1730;Chimarrão;Não se aplica;2.8;0.25;0;2.31;1.86
+1731;Tereré;Não se aplica;2.8;0.25;0;2.31;1.86
+1732;Levedo de cerveja;Não se aplica;170;16.2;1.3;28.1;11.5
+1733;Refrigerante não especificado;Não se aplica;36.87;0.07;0.02;9.53;0
+1734;Cevada em pó;Não se aplica;352;9.91;1.16;77.72;15.6
+1735;Chocomilk ;Não se aplica;83.32;3.18;3.4;10.38;0.8
+1736;Água tônica tradicional;Não se aplica;40.02;0.05;0.02;10.14;0
+1737;Chá diet (preto. camomila. ervacidreira. capimlimão. etc.) ;Não se aplica;2.52;0.01;0;0.67;0
+1738;Paraguai refrigerante tradicional;Não se aplica;39;0;0;10;0
+1739;Gatorade;Não se aplica;27.01;0;0.1;6.76;0
+1740;Bebida energética;Não se aplica;45.35;0.25;0.08;11.03;0
+1741;Chá (preto. camomila. ervacidreira. capimlimão. etc.);Não se aplica;1;0;0;0.3;0
+1742;Café solúvel capuccino ;Não se aplica;27.71;0.26;0.84;5.17;0.13
+1743;Refrigerante de guaraná diet;Não se aplica;0;0;0;0;0
+1744;Guaraná diet;Não se aplica;0;0;0;0;0
+1745;Refrigerante de limão diet;Não se aplica;0;0.1;0;0;0
+1746;Fanta uva light;Não se aplica;0;0.1;0;0;0
+1747;Mate light;Não se aplica;2.8;0.25;0;2.31;1.86
+1748;Água tônica light;Não se aplica;40.02;0.05;0.02;10.14;0
+1749;Paraguai refrigerante light;Não se aplica;2;0.11;0.03;0.29;0
+1750;Qsuco light;Não se aplica;15.28;0;0;3.91;0
+1751;Qrefresko light;Não se aplica;15.28;0;0;3.91;0
+1752;Qsuco diet;Não se aplica;15.28;0;0;3.91;0
+1753;Café capuccino solúvel light;Não se aplica;12.77;0.14;1.01;0.91;0.05
+1754;Café capuccino solúvel diet;Não se aplica;12.77;0.14;1.01;0.91;0.05
+1755;Água tônica diet;Não se aplica;40.02;0.05;0.02;10.14;0
+1756;Refrigerante de quinino dietético;Não se aplica;40.02;0.05;0.02;10.14;0
+1757;Chá mate orgânico;Não se aplica;2.8;0.25;0;2.31;1.86
+1758;Chimarrão orgânico;Não se aplica;2.8;0.25;0;2.31;1.86
+1759;Suco de clorofila;Não se aplica;1.87;0.24;0.02;0.31;0.2
+1760;Café com farinha;Não se aplica;181;0.86;0.16;44.19;3.44
+1761;Cerveja (com ou sem álcool);Não se aplica;43.19;0.46;0;3.57;0
+1762;Chopp;Não se aplica;43.19;0.46;0;3.57;0
+1763;Aguardente;Não se aplica;216;0;0;0;0
+1764;Cachaça;Não se aplica;216;0;0;0;0
+1765;Batida de qualquer sabor;Não se aplica;187.38;0.54;3.69;22.14;0.32
+1766;Rum;Não se aplica;230.18;0;0;0;0
+1767;Vodka;Não se aplica;217.15;0;0;0;0
+1768;Uísque;Não se aplica;230.18;0;0;0;0
+1769;Whisky;Não se aplica;230.18;0;0;0;0
+1770;Champanhe;Não se aplica;82;0.07;0;2.6;0
+1771;Sidra champanhe;Não se aplica;82;0.07;0;2.6;0
+1772;Martini;Não se aplica;194.44;0.01;0;0.53;0
+1773;Conhaque;Não se aplica;231;0;0;0;0
+1774;Drink dreher;Não se aplica;216;0;0;0;0
+1775;Licor de qualquer sabor;Não se aplica;282.65;0;0;33.64;0
+1776;Cajuína;Não se aplica;45;0.8;0;11.5;1.5
+1777;Vinho;Não se aplica;84.5;0.07;0;2.6;0
+1778;Catuaba;Não se aplica;216;0;0;0;0
+1779;Coquetel de frutas;Não se aplica;187.38;0.54;3.69;22.14;0.32
+1780;Caipirinha;Não se aplica;143.9;0.1;0.1;37.9;0.1
+1781;Bebida alcoólica ;Não se aplica;216;0;0;0;0
+1782;Vinho orgânico;Não se aplica;84.5;0.07;0;2.6;0
+1783;Cerveja (com ou sem álcool) light;Não se aplica;29;0.24;0;1.64;0
+1784;Caxiri (aguardente de mandioca);Não se aplica;216;0;0;0;0
+1785;Azeite de oliva;Não se aplica;887.81;0;100.43;0;0
+1786;Óleo de soja;Não se aplica;879.73;0;99.52;0;0
+1787;Banha suína;Não se aplica;902;0;100;0;0
+1788;Banha bovina;Não se aplica;680;10.65;70.33;0;0
+1789;Óleo não especificado;Não se aplica;879.73;0;99.52;0;0
+1790;Óleo de dendê;Não se aplica;857.84;0;99.52;0;0
+1791;Salgadinho;Não se aplica;274.6;13.41;16.88;16.54;0.88
+1792;Pastel (queijo. carne. palmito. etc.);Não se aplica;319.81;10.38;15.68;33.51;1.45
+1793;Croquete ;Não se aplica;274.6;13.41;16.88;16.54;0.88
+1794;Coxinha ;Não se aplica;274.6;13.41;16.88;16.54;0.88
+1795;Empada (queijo. carne. camarão. etc.);Não se aplica;153.96;7.89;7.91;12.47;1.03
+1796;Rissole  (queijo. carne. camarão. etc.);Não se aplica;274.6;13.41;16.88;16.54;0.88
+1797;Acarajé;Não se aplica;289;8.3;19.9;19.1;9.4
+1798;Torresmo ;Não se aplica;544;61.3;31.3;0;0
+1799;Quibe ;Não se aplica;274.6;13.41;16.88;16.54;0.88
+1800;Abará (Bahia);Não se aplica;289;8.3;19.9;19.1;9.4
+1801;Paçoca de carne de sol;Não se aplica;354;13.44;13.43;43.95;3.2
+1802;Angu frito;Não se aplica;74.6;1.45;1.78;13;0.26
+1803;Angu de milho ;Não se aplica;60.58;1.44;0.2;13;0.26
+1804;Polenta ;Não se aplica;74.6;1.45;1.78;13;0.26
+1805;Esfirra ;Não se aplica;359.42;9.76;18.88;37.51;1.46
+1806;Esfirra de carne ;Não se aplica;346.45;11.9;21.38;26.2;1.08
+1807;Esfirra de queijo ;Não se aplica;359.42;9.76;18.88;37.51;1.46
+1808;Esfirra de ricota ;Não se aplica;320.39;7.54;15.25;38.09;1.46
+1809;Esfirra de frango ;Não se aplica;222.39;9.47;12.71;17.32;0.78
+1810;Enroladinho ;Não se aplica;274.6;13.41;16.88;16.54;0.88
+1811;Bolinho de aipim;Não se aplica;212.64;6.28;13.11;18.51;2.72
+1812;Bolinho de bacalhau;Não se aplica;214.01;16.7;12.75;7.69;0.83
+1813;Cachorroquente ;Não se aplica;272.47;8.73;15.22;24.8;1.09
+1814;Hambúrguer (sanduíche);Não se aplica;267.16;13.08;9.22;32.36;1.68
+1815;Cheeseburger ;Não se aplica;279.85;14.15;11.81;28.74;1.49
+1816;Eggsburger ;Não se aplica;269.44;13.28;16.1;17.42;0.64
+1817;Bauru ;Não se aplica;229.47;13.67;13;13.97;0.78
+1818;Americano;Não se aplica;236.68;10.05;14.22;16.85;1
+1819;Mistoquente ou frio ;Não se aplica;265.42;16.29;13.78;18.3;0.85
+1820;Sanduíche de queijo prato;Não se aplica;329.29;12.22;17.24;31.09;1.45
+1821;Sanduíche de salame;Não se aplica;282.99;8.97;13.74;30.27;1.4
+1822;Sanduíche de presunto;Não se aplica;230.33;10.97;12.15;18.73;1.11
+1823;Sanduíche de queijo prato com presunto;Não se aplica;265.42;16.29;13.78;18.3;0.85
+1824;Sanduíche de mortadela;Não se aplica;315.97;8.6;16.56;32.81;1.45
+1825;Sanduíche de queijo minas;Não se aplica;329.29;12.22;17.24;31.09;1.45
+1826;Cheese egg;Não se aplica;279.85;14.15;11.81;28.74;1.49
+1827;Cheese tudo;Não se aplica;279.85;14.15;11.81;28.74;1.49
+1828;Sanduíche natural;Não se aplica;245.58;11.21;10.84;25.58;1.47
+1829;Suco ;Não se aplica;41.83;0.59;0.14;9.81;0.31
+1830;Suco de abacaxi ;Não se aplica;53.21;0.36;0.12;12.92;0.2
+1831;Suco de acerola ;Não se aplica;23.06;0.4;0.3;4.81;0.3
+1832;Suco de beterraba ;Não se aplica;30.77;0.81;0.12;7.11;0.76
+1833;Suco de cupuaçu ;Não se aplica;24.5;0.6;0.5;5.2;1.55
+1834;Suco de goiaba ;Não se aplica;62.28;0.37;0.14;15.62;0.79
+1835;Suco de laranja ;Não se aplica;41.83;0.59;0.14;9.81;0.31
+1836;Suco de laranja com banana ;Não se aplica;56.8;0.76;0.2;13.84;0.93
+1837;Suco de laranja e beterraba ;Não se aplica;30.77;0.81;0.12;7.11;0.76
+1838;Suco de laranja e cenoura ;Não se aplica;30.77;0.81;0.12;7.11;0.76
+1839;Suco de laranja cenoura e beterraba;Não se aplica;30.77;0.81;0.12;7.11;0.76
+1840;Suco de mamão ;Não se aplica;57.13;0.17;0.15;14.54;0.6
+1841;Suco de manga ;Não se aplica;50.86;0.11;0.06;13.08;0.3
+1842;Suco de maracujá ;Não se aplica;60.14;0.67;0.18;14.48;0.2
+1843;Suco de melão ;Não se aplica;31.79;0.65;0.16;8;0.42
+1844;Suco de morango ;Não se aplica;59.21;0.57;0.1;14.51;0.23
+1845;Suco de pêssego ;Não se aplica;53.99;0.27;0.02;13.92;0.6
+1846;Suco de pêssego em calda ;Não se aplica;53.99;0.27;0.02;13.92;0.6
+1847;Vitamina ;Não se aplica;92.78;2.47;2.31;16.39;0.62
+1848;Vitamina de banana ;Não se aplica;92.78;2.47;2.31;16.39;0.62
+1849;Vitamina de banana com aveia ;Não se aplica;108.46;3.06;2.54;19.2;1.15
+1850;Vitamina de mamão ;Não se aplica;80.59;2.42;2.34;12.95;0.38
+1851;Vitamina de abacate ;Não se aplica;100.19;2.74;4.64;12.8;1.34
+1852;Vitamina de morango ;Não se aplica;74.61;1.96;1.83;13.27;0.8
+1853;Vitamina mista;Não se aplica;83.16;1.81;1.65;16.2;0.77
+1854;Vitamina de maçã;Não se aplica;82.99;2.28;2.26;13.98;0.31
+1855;Refresco ;Não se aplica;46.81;0;0;11.92;0.2
+1856;Refresco de caju ;Não se aplica;46.81;0;0;11.92;0.2
+1857;Refresco de groselha ;Não se aplica;46.81;0;0;11.92;0.2
+1858;Refresco de laranja ;Não se aplica;46.81;0;0;11.92;0.2
+1859;Refresco de maracujá ;Não se aplica;46.81;0;0;11.92;0.2
+1860;Refresco de limão;Não se aplica;46.81;0;0;11.92;0.2
+1861;Salada ou verdura cozida. exceto de fruta;Não se aplica;26;2.11;0.36;4.91;2.8
+1862;Salada de maionese ;Não se aplica;209.79;2.71;16.83;12.65;1.38
+1863;Pizza ;Não se aplica;281.2;14.6;11.35;29.82;1.74
+1864;Lasanha pronta light ;Não se aplica;158.63;10.78;7.31;12.34;1.11
+1865;Nhoque ;Não se aplica;190.54;9.31;13.18;8.49;0.26
+1866;Caneloni;Não se aplica;120.86;5.94;6.8;9.22;1.01
+1867;Capeleti ;Não se aplica;95.24;5.53;2.59;12.6;1.2
+1868;Ravioli ;Não se aplica;95.24;5.53;2.59;12.6;1.2
+1869;Calzone ;Não se aplica;245.75;12.83;9.85;25.8;1.18
+1870;Panqueca;Não se aplica;203.18;13.96;12.46;8.27;0.66
+1871;Pizza calabreza;Não se aplica;284.72;13.74;12.21;29.51;1.75
+1872;Pizza muçarela;Não se aplica;281.2;14.6;11.35;29.82;1.74
+1873;Pizza presunto;Não se aplica;284.72;13.74;12.21;29.51;1.75
+1874;Pizza portuguesa;Não se aplica;247.49;11.75;12.23;22.4;1.56
+1875;Macarronada;Não se aplica;120.59;6.22;2.79;17.42;1.25
+1876;Galeto ;Não se aplica;261.66;27.3;16.16;0;0
+1877;Costela;Não se aplica;365;22.6;29.79;0;0
+1878;Pipoca doce ou salgada ;Não se aplica;468.15;6.59;23.28;62.51;6.02
+1879;Café ;Não se aplica;1;0.12;0.02;0.47;0.47
+1880;Café com leite ;Não se aplica;31.44;1.72;1.69;2.57;0.24
+1881;Café tipo expresso;Não se aplica;2.45;0.12;0.01;0.77;0.21
+1882;Café tipo capuccino;Não se aplica;27.71;0.26;0.84;5.17;0.13
+1883;Milho cozido ;Não se aplica;160.14;3.32;7.18;25.11;4.25
+1884;Batata palito;Não se aplica;263.5;2.87;13.64;33.6;3.44
+1885;Batata palha;Não se aplica;545.7;5.24;35.24;54.52;4.53
+1886;Mungunzá ;Não se aplica;146;4;3.9;24.4;2.4
+1887;Canjica ;Não se aplica;146;4;3.9;24.4;2.4
+1888;Curau;Não se aplica;78.24;2.42;3.06;10.46;0.17
+1889;Farofa ;Não se aplica;406;2.1;9.1;80.3;7.8
+1890;Mingau (fubá.  aveia. farinha. etc.) ;Não se aplica;78.24;2.42;3.06;10.46;0.17
+1891;Tacacá ;Não se aplica;16;2;0.6;0.4;0
+1892;Bolinho de coco ;Não se aplica;297.32;6.71;5.8;54.89;0.85
+1893;Risoto;Não se aplica;113.02;6.66;1.99;17.16;1.1
+1894;Vatapá ;Não se aplica;226.07;13.77;15.61;9.28;1.32
+1895;Farofa pronta ;Não se aplica;406;2.1;9.1;80.3;7.8
+1896;Caldo de carne ;Não se aplica;7.02;1.36;0;0.45;0
+1897;Caldodefeijão ;Não se aplica;75.5;4.78;1.77;10.33;2.2
+1898;Caldo de mocotó ;Não se aplica;7.02;1.36;0;0.45;0
+1899;Baião de dois;Não se aplica;136;6.2;3.2;20.4;5.1
+1900;Churrasco;Não se aplica;204;30.67;9;0;0
+1901;Sushi;Não se aplica;146.78;5.56;0.45;29.19;0.91
+1902;Salada de frutas ;Não se aplica;51.24;0.62;0.14;13.31;1.68
+1903;Sopa (legumes. carne. etc.);Não se aplica;28.78;1.63;0.78;3.81;0.64
+1904;Salpicão ;Não se aplica;202.85;14.26;14.41;3.93;0.55
+1905;Charuto de repolho;Não se aplica;84.91;9.63;1.3;8.75;1.2
+1906;Arroz à grega ;Não se aplica;92.01;2.17;1.69;17.47;1
+1907;Arrumadinho;Não se aplica;198.86;9.33;8.47;21.73;3.47
+1908;Bobó de camarão ;Não se aplica;72.1;2.63;4.42;5.48;0.15
+1909;Caruru (quiabo. amendoim. castanha de caju. camarão seco. etc.);Não se aplica;215.87;6.07;20.07;4.07;1.41
+1910;Cuscuz paulista ;Não se aplica;142;2.6;4.6;22.5;2.4
+1911;Empadão (queijo. frango. camarão. palmito. etc.);Não se aplica;153.96;7.89;7.91;12.47;1.03
+1912;Farofa de banana;Não se aplica;309.55;1.66;11.17;52.89;5.35
+1913;Feijãotropeiro ;Não se aplica;198.86;9.33;8.47;21.73;3.47
+1914;Galinha com arroz ;Não se aplica;143.5;4.47;3.07;23.93;0.65
+1915;Galinhada ;Não se aplica;143.5;4.47;3.07;23.93;0.65
+1916;Moqueca baiana ;Não se aplica;130.13;13.62;7.54;1.66;0.17
+1917;Omelete ;Não se aplica;241.62;11.04;21.26;0.98;0
+1918;Pirão ;Não se aplica;119.65;8.05;5.76;8.9;0.75
+1919;Quibebe ;Não se aplica;36.39;0.72;1.92;4.9;1.1
+1920;Quiche;Não se aplica;282.73;10.34;20.44;13.85;0.56
+1921;Suflê ;Não se aplica;126.1;5.11;9.17;6.4;1.1
+1922;Tutu ;Não se aplica;123.76;5.41;1.64;22.34;4.04
+1923;Moqueca capixaba ;Não se aplica;100.52;14.34;3.66;1.75;0.18
+1924;Maniçoba ;Não se aplica;181.85;15.09;12.16;2.92;1.31
+1925;Caldo verde ;Não se aplica;94.92;3.53;2.9;14.19;2.14
+1926;Arroz de cuxá;Não se aplica;102.74;2.38;0.95;20.92;1.92
+1927;Angu à baiana;Não se aplica;125.34;9.01;5.75;8.87;0.31
+1928;Chocolate;Não se aplica;535;7.65;29.66;59.4;3.4
+1929;Gemada ;Não se aplica;134.79;3.8;7.47;13.52;0
+1930;Açaí com granola;Não se aplica;110;0.7;3.7;21.5;1.7
+1931;Suco orgânico ;Não se aplica;41.83;0.59;0.14;9.81;0.31
+1932;Suco de abacaxi orgânico ;Não se aplica;53.21;0.36;0.12;12.92;0.2
+1933;Suco de acerola orgânico ;Não se aplica;23.06;0.4;0.3;4.81;0.3
+1934;Suco de goiaba orgânico ;Não se aplica;62.28;0.37;0.14;15.62;0.79
+1935;Suco de laranja orgânico ;Não se aplica;41.83;0.59;0.14;9.81;0.31
+1936;Suco de laranja cenoura e beterraba orgânico ;Não se aplica;30.77;0.81;0.12;7.11;0.76
+1937;Suco de manga orgânico ;Não se aplica;50.86;0.11;0.06;13.08;0.3
+1938;Suco de maracujá orgânico ;Não se aplica;60.14;0.67;0.18;14.48;0.2
+1939;Suco de morango orgânico ;Não se aplica;59.21;0.57;0.1;14.51;0.23
+1940;Suco de pêssego orgânico ;Não se aplica;53.99;0.27;0.02;13.92;0.6
+1941;Suco de pêssego em calda orgânico ;Não se aplica;53.99;0.27;0.02;13.92;0.6
+1942;Pizza pronta light ;Não se aplica;255.57;14.6;8.45;29.82;1.74
+1943;Lasanha pronta light ;Não se aplica;144.33;10.93;5.67;12.34;1.11
+1944;Macarrão pronto light ;Cozido(a);189.86;5.65;7.18;25.54;1.16
+1945;Pizza portuguesa light;Não se aplica;229.62;11.75;10.21;22.4;1.56
+1946;Farofa pronta light em pacote;Não se aplica;406;2.1;9.1;80.3;7.8
+1947;Vaca atolada;Não se aplica;245;11.6;15.05;15.05;0.8
+1948;Salada ou verdura crua. exceto de fruta;Não se aplica;18;0.88;0.2;3.92;1.2
+1949;Outros legumes cozidos;Não se aplica;60.5;1.24;0.14;14.12;2.53
+1950;Café da manha;Não se aplica;31.44;1.72;1.69;2.57;0.24
+1951;Prato de comida brasileira;Não se aplica;148.37;6.74;3.86;21.34;2.31
+1952;Prato de comida do nordeste;Não se aplica;129.21;6.49;2.66;19.48;2.33
+1953;Prato de comida do norte;Não se aplica;157.1;6.53;3.36;24.99;2.94
+1954;Prato de comida do sudeste;Não se aplica;131.09;8.62;5.3;12;1.86
+1955;Prato de comida do sul;Não se aplica;148.37;6.74;3.86;21.34;2.31
+1956;Prato de comida do centrooeste;Não se aplica;105.93;5.68;2.91;14.27;2.22
+1957;Arroz com feijão;Não se aplica;116.51;4.17;1.5;21.42;2.66
+1958;Pão com manteiga;Não se aplica;369.5;6.81;16.1;48.84;1.92
+1959;Pão com margarina;Não se aplica;369.83;6.82;16;48.98;1.92
+1960;Pão com ovo;Não se aplica;261.3;10.84;10.38;29.91;1.15
+1961;Carne com batata. inhame. batatabaroa ou aipim ;Não se aplica;188.2;12.97;10.5;10.01;1.03
+1962;Carne com legumes (exceto batata. inhame e aipim);Não se aplica;150.52;12.47;9.95;2.45;0.55
+1963;Frango com batata. inhame batatabaroa ou aipim;Não se aplica;153.7;16.31;5.04;10.01;1.03
+1964;Frango com legumes (exceto batata. inhame e aipim);Não se aplica;116.02;15.82;4.5;2.45;0.55
+1965;Abobora com quiabo;Não se aplica;21;1.3;0.14;4.71;1.8
+1966;Arroz carreteiro;Não se aplica;154;10.8;7.1;11.6;1.5
+1967;Maria izabel;Não se aplica;154;10.8;7.1;11.6;1.5
+1968;Arroz de leite;Não se aplica;142.42;2.98;4.17;22.62;0.3
+1969;Arroz com mandioca;Não se aplica;130.31;1.55;0.75;28.94;1.57
+1970;Arroz com ovo;Não se aplica;179.11;8.09;9.43;14.5;0.77
+1971;Palma ;Não se aplica;41.95;1.35;3.1;3.28;2
